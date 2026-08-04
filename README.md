@@ -31,8 +31,7 @@ Email Me 👉 ✉️ **charanade66@gmail.com** For Collaboration/Project or Anyt
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Charan-Code600&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Charan-Code600&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-trophies.vercel.app/?username=Charan-Code600&theme=radical)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Charan-Code600&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
