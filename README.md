@@ -1,9 +1,16 @@
+# 💫 Hi 👋, I'm Charan Aade
+**A self-taught AI/ML Developer || Python & Data Analysis Enthusiast from India**
 
+Email Me 👉 ✉️ **charanade66@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🔭 **I'm currently working on:** Building my Phase 3 portfolio — Python & Data Analysis projects on GitHub and Kaggle
+- 🌱 **I'm currently learning:** Machine Learning fundamentals, Pandas, NumPy, and Data Visualization
+- 👯 **I'm looking to collaborate on:** Beginner-friendly Python/data science projects and open-source practice repositories
+- 🤔 **I'm looking for help with:** Real-world project ideas and feedback on my code as I build my portfolio
+- 💬 **Ask me about:** Python, data analysis, self-taught learning paths, and building projects from scratch
+- 📫 **How to reach me:** charanade66@gmail.com or [LinkedIn](https://linkedin.com/in/charanaade)
+- ⚡ **Fun fact:** I'm building my entire AI/ML skill set from the ground up, one project at a time
 
-
-# 💫 About Me:
-Python & Data Analysis projects — building my portfolio for Phase 3 of my AI/ML learning roadmap
 
 
 ## 🌐 Socials:
