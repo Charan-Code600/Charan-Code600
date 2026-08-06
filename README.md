@@ -32,8 +32,7 @@ Email Me 👉 ✉️ **charanade66@gmail.com** For Collaboration/Project or Anyt
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Charan-Code600&theme=radical)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Charan-Code600&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=Charan-Code600&color=blue)](https://visitcount.itsvg.in)
