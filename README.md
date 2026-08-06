@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Self-taught+AI%2FML+Developer;Building+with+Python%2C+Pandas+%26+NumPy;Learning+one+project+at+a+time)](https://git.io/typing-svg)
 # 💫 Hi 👋, I'm Charan Aade
 **A self-taught AI/ML Developer || Python & Data Analysis Enthusiast from India**
 
