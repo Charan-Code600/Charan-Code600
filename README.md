@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **charanade66@gmail.com** For Collaboration/Project or Anyt
 - 💬 **Ask me about:** Python, data analysis, self-taught learning paths, and building projects from scratch
 - 📫 **How to reach me:** charanade66@gmail.com or [LinkedIn](https://linkedin.com/in/charanaade)
 - ⚡ **Fun fact:** I'm building my entire AI/ML skill set from the ground up, one project at a time
-
+---
 
 
 ## 🌐 Socials:
