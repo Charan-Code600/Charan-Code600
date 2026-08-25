@@ -1,4 +1,7 @@
 # 💫 Hi 👋, I'm Charan Aade
+
+---
+
 **A self-taught AI/ML Developer || Python & Data Analysis Enthusiast from India**
 
 ---
