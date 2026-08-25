@@ -1,6 +1,8 @@
 # 💫 Hi 👋, I'm Charan Aade
 **A self-taught AI/ML Developer || Python & Data Analysis Enthusiast from India**
 
+---
+
 Email Me 👉 ✉️ **charanade66@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I'm currently working on:** Building my Phase 3 portfolio — Python & Data Analysis projects on GitHub and Kaggle
