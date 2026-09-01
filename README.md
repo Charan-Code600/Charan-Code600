@@ -370,11 +370,7 @@
 
 <!-- ==================== TECH STACK BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=header&text=⚡%20TECH%20STACK%20%26%20ECOSYSTEM&fontSize=26&fontColor=FFB800&fontAlignY=65" width="100%" />
-</p>
-
-<p align="center">
-  <font color="#8b949e">Tools, Technologies & Frameworks I Work With</font>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=header&text=Tech%20Stack%20and%20Ecosystem&fontSize=26&fontColor=FFB800&fontAlignY=65&desc=Tools,%20Technologies%20and%20Frameworks%20I%20Work%20With&descAlignY=85&descSize=15" width="100%" />
 </p>
 
 <br />
