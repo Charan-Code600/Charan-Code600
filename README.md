@@ -366,3 +366,39 @@
 
 
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF0080&height=130&section=header&text=GitHub%20Trophies&fontSize=38&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" />
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:FFD700&height=130&section=header&text=GitHub%20Trophies&fontSize=38&fontColor=000000&fontAlignY=55" width="100%" />
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=110&section=header&text=GitHub%20Trophies&fontSize=34&fontColor=00FFFF&fontAlignY=55" width="100%" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=header&text=GitHub%20Trophies&fontSize=36&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=130&section=header&text=GitHub%20Trophies&fontSize=38&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" />
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB800&height=120&section=header&text=GitHub%20Trophies&fontSize=36&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FF7F00,50:FFFF00,75:00FF00,100:0000FF&height=130&section=header&text=GitHub%20Trophies&fontSize=36&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:30363d&height=100&section=header&text=GitHub%20Trophies&fontSize=32&fontColor=FFD700&fontAlignY=55" width="100%" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=130&section=header&text=GitHub%20Trophies&fontSize=38&fontColor=FFFFFF&fontAlignY=55&animation=twinkling" width="100%" />
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=130&section=header&text=GitHub%20Trophies&fontSize=38&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+
