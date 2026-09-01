@@ -36,23 +36,63 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" />
 </p>
 
-<!-- ==================== ABOUT ME WITH ICONS ==================== -->
 
-### 🚀 About Me
+<!-- ==================== ABOUT ME WITH ICONS & STYLING ==================== -->
+
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" /> 
-  <strong>Self-Taught AI/ML Developer</strong> 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=50&lines=Self-Taught+AI%2FML+Developer;Python+%26+Data+Analysis+Enthusiast" alt="Typing Animation" />
 </p>
 
-- 🔭 **Current Focus:** Building Phase 3 Portfolio – Python & Data Analysis Projects
-- 🌱 **Learning:** Machine Learning, Pandas, NumPy, Data Visualization
-- 👯 **Collaboration:** Open-source Python & Data Science Projects
-- 🤝 **Seeking Help:** Real-world Project Ideas & Code Feedback
-- 💬 **Ask Me:** Python, Data Analysis, Self-Taught Journey
-- 📫 **Reach Me:** charanade66@gmail.com
-- ⚡ **Fun Fact:** Building AI/ML Skills – One Project at a Time!
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>🔭 Current Focus</strong><br />
+      Building Phase 3 Portfolio – Python & Data Analysis Projects
+    </td>
+    <td align="center" width="50%">
+      <strong>🌱 Learning</strong><br />
+      Machine Learning, Pandas, NumPy, Data Visualization
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>👯 Collaboration</strong><br />
+      Open-source Python & Data Science Projects
+    </td>
+    <td align="center" width="50%">
+      <strong>🤝 Seeking Help</strong><br />
+      Real-world Project Ideas & Code Feedback
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>💬 Ask Me</strong><br />
+      Python, Data Analysis, Self-Taught Journey
+    </td>
+    <td align="center" width="50%">
+      <strong>📫 Reach Me</strong><br />
+      <a href="mailto:charanade66@gmail.com">charanade66@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>⚡ Fun Fact</strong><br />
+      Building AI/ML Skills – One Project at a Time! 🚀
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" />
+  <strong>Let's Connect and Build Something Amazing!</strong>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" />
+</p>
 
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
