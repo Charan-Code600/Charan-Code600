@@ -10,10 +10,10 @@
 </p>
 
 
-<!-- ==================== MODERN PROFESSIONAL TYPING ==================== -->
+<!-- ==================== MEDIUM-LARGE PROFESSIONAL TYPING ==================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Welcome%20to%20My%20Portfolio;I'm%20Charan%20Aade;Self-Taught%20AI%2FML%20Developer;Specializing%20in%20Python%20%26%20Data%20Analysis;Open%20to%20Collaborations%20%7C%20Based%20in%20India" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Welcome%20to%20My%20Portfolio;I'm%20Charan%20Aade;Self-Taught%20AI%2FML%20Developer;Specializing%20in%20Python%20%26%20Data%20Analysis;Open%20to%20Collaborations%20%7C%20Based%20in%20India" alt="Typing Animation" />
   </a>
 </p>
 
