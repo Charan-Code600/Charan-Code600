@@ -12,12 +12,9 @@
 
 <!-- ==================== TYPING ANIMATION ==================== -->
 
-<p align="center">
-  <marquee>
-    🚀 AI/ML Developer | 🐍 Python Enthusiast | 📊 Data Analysis | 🤖 Building with AI
-  </marquee>
-</p>
-
+<marquee behavior="scroll" direction="left" scrollamount="10" style="font-size:30px; color:#00FF88;">
+  🚀 Welcome to My GitHub Profile!  |  ✨ I'm Charan Aade  |  🔥 Self-Taught AI/ML Developer  |  💡 Building the Future with AI  |  🇮🇳 From India
+</marquee>
 
 <!-- ==================== SOCIAL BADGES WITH GLOW EFFECT ==================== -->
 
