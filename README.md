@@ -252,19 +252,7 @@
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
 <div align="center">
-  <svg width="100%" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00F5D4" />
-        <stop offset="50%" stop-color="#7B2CBF" />
-        <stop offset="100%" stop-color="#FF007F" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="60" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-    <text x="50%" y="38" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle">
-      🏆 GITHUB TROPHIES & MILESTONES
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12,18,24&height=100&section=header&text=%F0%9F%8F%86%20GITHUB%20TROPHIES&fontSize=22&fontAlignY=35&fontColor=ffffff" width="100%" />
 </div>
 
 <p align="center">
