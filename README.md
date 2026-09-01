@@ -133,33 +133,37 @@
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
 
 
-<!-- ==================== WORK EXPERIENCE HEADER BANNER ==================== -->
+
+<!-- ==================== WORK EXPERIENCE BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00ff88,100:090d16&height=120&section=header&text=💼%20WORK%20EXPERIENCE&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=header&text=💼%20WORK%20EXPERIENCE&fontSize=28&fontColor=FFB800&fontAlignY=65" width="100%" />
 </p>
 
-
-
-<table width="100%">
+<!-- ==================== EXPERIENCE CARD ==================== -->
+<table border="0" align="center" width="100%">
   <tr>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; padding: 15px; border-radius: 6px;">
-      <div align="center">
-        <img src="https://img.shields.io/badge/ROLE-AI%2FML%20DEVELOPER-00F5D4?style=for-the-badge&labelColor=101010&logo=python&logoColor=white" />
-        <br/><br/>
-        <h4 style="margin: 0; color: #58a6ff;">Self-Taught & Self-Employed</h4>
-        <p style="color: #8b949e; font-size: 13px;">Mastering Python, Data Analysis (NumPy, Pandas), and Data Visualization.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; padding: 15px; border-radius: 6px;">
-      <div align="center">
-        <img src="https://img.shields.io/badge/DURATION-AUG%202026%20--%20PRESENT-00BBF9?style=for-the-badge&labelColor=101010&logo=googlecalendar&logoColor=white" />
-        <br/><br/>
-        <h4 style="margin: 0; color: #7ee787;">Building Portfolio & Freelancing</h4>
-        <p style="color: #8b949e; font-size: 13px;">Publishing real-world projects on GitHub to deliver value to clients.</p>
-      </div>
+    <td width="100%" style="background-color: #0d1117; padding: 25px; border-radius: 12px; border: 1px solid #FFB800;">
+      <table border="0" width="100%">
+        <tr>
+          <td width="50%" valign="top" style="padding-right: 15px;">
+            <img src="https://img.shields.io/badge/ROLE-AI%2FML%20Developer-FFB800?style=for-the-badge&labelColor=000000&logo=python&logoColor=FFB800" /><br /><br />
+            <b style="font-size:16px;">Self-Taught & Self-Employed</b><br />
+            <font color="#8b949e">Mastering Python, Data Analysis (NumPy, Pandas), and Data Visualization.</font>
+          </td>
+          <td width="50%" valign="top" style="padding-left: 15px; border-left: 1px solid #30363d;">
+            <img src="https://img.shields.io/badge/DURATION-Aug%202026%20--%20Present-FFB800?style=for-the-badge&labelColor=000000&logo=googlecalendar&logoColor=FFB800" /><br /><br />
+            <b style="font-size:16px;">Building Portfolio & Freelancing</b><br />
+            <font color="#8b949e">Publishing real-world projects on GitHub to deliver value to clients.</font>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
+<br />
+
+
 
 
 
@@ -362,37 +366,3 @@
 
 
 
-
-
-
-
-
-
-<!-- ==================== WORK EXPERIENCE BANNER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=header&text=💼%20WORK%20EXPERIENCE&fontSize=28&fontColor=FFB800&fontAlignY=65" width="100%" />
-</p>
-
-<!-- ==================== EXPERIENCE CARD ==================== -->
-<table border="0" align="center" width="100%">
-  <tr>
-    <td width="100%" style="background-color: #0d1117; padding: 25px; border-radius: 12px; border: 1px solid #FFB800;">
-      <table border="0" width="100%">
-        <tr>
-          <td width="50%" valign="top" style="padding-right: 15px;">
-            <img src="https://img.shields.io/badge/ROLE-AI%2FML%20Developer-FFB800?style=for-the-badge&labelColor=000000&logo=python&logoColor=FFB800" /><br /><br />
-            <b style="font-size:16px;">Self-Taught & Self-Employed</b><br />
-            <font color="#8b949e">Mastering Python, Data Analysis (NumPy, Pandas), and Data Visualization.</font>
-          </td>
-          <td width="50%" valign="top" style="padding-left: 15px; border-left: 1px solid #30363d;">
-            <img src="https://img.shields.io/badge/DURATION-Aug%202026%20--%20Present-FFB800?style=for-the-badge&labelColor=000000&logo=googlecalendar&logoColor=FFB800" /><br /><br />
-            <b style="font-size:16px;">Building Portfolio & Freelancing</b><br />
-            <font color="#8b949e">Publishing real-world projects on GitHub to deliver value to clients.</font>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<br />
