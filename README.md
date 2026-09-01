@@ -3,40 +3,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- ==================== PREMIUM HEADER WITH 3D EFFECT ==================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+My+GitHub+Profile!;I'm+Charan+Aade+%F0%9F%91%8B;Self-Taught+AI%2FML+Developer;Python+%26+Data+Analysis+Enthusiast;Building+the+Future+with+AI;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing Animation" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+My+GitHub+Profile!;I'm+Charan+Aade+%F0%9F%91%8B;Self-Taught+AI%2FML+Developer;Python+%26+Data+Analysis+Enthusiast;Building+the+Future+with+AI;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing Animation" />
+</h1>
 
 <!-- ==================== ANIMATED BANNER ==================== -->
 
