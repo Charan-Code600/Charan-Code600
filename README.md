@@ -143,37 +143,26 @@
 
 
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center" style="background-color: #0d1117;">
-        <br/>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; padding: 15px; border-radius: 6px;">
+      <div align="center">
         <img src="https://img.shields.io/badge/ROLE-AI%2FML%20DEVELOPER-00F5D4?style=for-the-badge&labelColor=101010&logo=python&logoColor=white" />
         <br/><br/>
-        <b>Self-Taught & Self Employed</b><br/>
-        <sub>Building Real-World AI/ML Portfolio</sub>
+        <h4 style="margin: 0; color: #58a6ff;">Self-Taught & Self-Employed</h4>
+        <p style="color: #8b949e; font-size: 13px;">Mastering Python, Data Analysis (NumPy, Pandas), and Data Visualization.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; padding: 15px; border-radius: 6px;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/DURATION-AUG%202026%20--%20PRESENT-00BBF9?style=for-the-badge&labelColor=101010&logo=googlecalendar&logoColor=white" />
         <br/><br/>
-      </td>
-      <td width="50%" align="center" style="background-color: #0d1117;">
-        <br/>
-        <img src="https://img.shields.io/badge/TIMELINE-AUG%202026%20--%20PRESENT-00BBF9?style=for-the-badge&labelColor=101010&logo=googlecalendar&logoColor=white" />
-        <br/><br/>
-        <b>Python & Data Analysis</b><br/>
-        <sub>NumPy, Pandas & Data Visualization</sub>
-        <br/><br/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="background-color: #0d1117;">
-        <br/>
-        <img src="https://img.shields.io/badge/GOAL-FREELANCING%20%26%20CLIENT%20VALUE-FF007F?style=for-the-badge&labelColor=101010&logo=target&logoColor=white" />
-        <br/><br/>
-        <sub>Publishing clean code projects on GitHub to deliver high-impact solutions for clients.</sub>
-        <br/><br/>
-      </td>
-    </tr>
-  </table>
-</div>
+        <h4 style="margin: 0; color: #7ee787;">Building Portfolio & Freelancing</h4>
+        <p style="color: #8b949e; font-size: 13px;">Publishing real-world projects on GitHub to deliver value to clients.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 
