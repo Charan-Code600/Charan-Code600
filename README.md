@@ -109,22 +109,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" />
 </p>
 
-<!-- ==================== WORK EXPERIENCE (PREMIUM) ==================== -->
 
-### 💼 Work Experience
-
+<!-- ==================== WORK EXPERIENCE HEADER BANNER ==================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40" />
-  <strong>Building My Career Journey</strong>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00ff88,100:090d16&height=120&section=header&text=💼%20WORK%20EXPERIENCE&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
 </p>
 
-| Role | Company | Duration | Tech Stack |
-|------|---------|----------|------------|
-| **AI/ML Developer** | [Your Company] | [Start] – Present | Python, Pandas, NumPy, Scikit-learn |
-| **Data Analyst** | [Previous Company] | [Start] – [End] | Python, SQL, Power BI, Excel |
-
-> 💡 **Pro Tip:** Replace the placeholders with your actual job details.
 
 <!-- ==================== TECH STACK WITH ANIMATION ==================== -->
 
@@ -296,9 +286,4 @@
 
 
 
-
-<!-- ==================== WORK EXPERIENCE HEADER BANNER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00ff88,100:090d16&height=120&section=header&text=💼%20WORK%20EXPERIENCE&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
-</p>
 
