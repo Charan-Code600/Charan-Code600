@@ -10,9 +10,31 @@
 
 <!-- ==================== ANIMATED BANNER ==================== -->
 
-<!-- OR Custom Color Gradient -->
+<!-- ==================== ANIMATED BANNER WITH COLOR CHANGE ==================== -->
+
+<!-- Banner 1: Green to Blue -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:FF5733&height=250&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00BFFF&height=250&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+</p>
+
+<!-- Banner 2: Blue to Purple -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=250&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+</p>
+
+<!-- Banner 3: Purple to Pink -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=250&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+</p>
+
+<!-- Banner 4: Pink to Orange -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFA500&height=250&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+</p>
+
+<!-- Banner 5: Orange to Green -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:00FF88&height=250&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
 </p>
 
 <!-- ==================== SOCIAL BADGES WITH GLOW EFFECT ==================== -->
