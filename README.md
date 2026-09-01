@@ -34,11 +34,15 @@
   </a>
 </p>
 
-<!-- ==================== GLOWING DIVIDER ==================== -->
 
+
+<!-- ==================== NEW DISTINCT CYBERPUNK ABOUT ME BANNER ==================== -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:1f0933,100:090d16&height=100&section=header&text=🚀%20ABOUT%20ME&fontSize=34&fontColor=00FF88&stroke=A855F7&strokeWidth=2&fontAlignY=50" width="100%" />
 </p>
+
+
+
 
 <!-- ==================== MODERN COLORFUL ABOUT ME BANNER ==================== -->
 <p align="center">
