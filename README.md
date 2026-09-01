@@ -27,9 +27,6 @@
   <a href="https://twitter.com/charanaade">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" />
   </a>
-  <a href="https://medium.com/@charanaade">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&color=000000" />
-  </a>
   <a href="https://github.com/Charan-Code600">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" />
   </a>
