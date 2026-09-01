@@ -42,13 +42,6 @@
 </p>
 
 
-
-
-<!-- ==================== MODERN COLORFUL ABOUT ME BANNER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:a855f7,100:090d16&height=120&section=header&text=🚀%20ABOUT%20ME&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
-</p>
-
 <!-- ==================== HIGH-TECH COLORFUL GRID BOXES ==================== -->
 <table border="0" align="center" width="100%">
   <tr>
