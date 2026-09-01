@@ -251,9 +251,9 @@
 
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12,18,24&height=100&section=header&text=%F0%9F%8F%86%20GITHUB%20TROPHIES&fontSize=22&fontAlignY=35&fontColor=ffffff" width="100%" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_GITHUB_TROPHIES-7B2CBF?style=for-the-badge&labelColor=101010" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Charan-Code600&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
