@@ -9,11 +9,6 @@
 
 <!-- ==================== ANIMATED BANNER ==================== -->
 
-<!-- Red to Blue Gradient -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Developer%20%7C%20Python%20Enthusiast&descSize=20" alt="Premium Banner" />
-</p>
-
 <!-- OR Custom Color Gradient -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:FF5733&height=250&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
