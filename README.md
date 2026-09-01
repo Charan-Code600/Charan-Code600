@@ -10,11 +10,18 @@
 </p>
 
 
-<!-- ==================== SINGLE TYPING ANIMATION WITH MULTI-COLOR ==================== -->
+<!-- ==================== COLORFUL RUNNING NEWS TICKER (MARQUEE) ==================== -->
+<div align="center" style="background: linear-gradient(90deg, #090d16 0%, #1a0b2e 50%, #090d16 100%); padding: 12px 0; border-top: 2px solid #00FF88; border-bottom: 2px solid #A855F7; margin: 20px 0;">
+  <marquee behavior="scroll" direction="left" scrollamount="8" style="font-family: 'Fira Code', monospace; font-size: 20px; font-weight: bold;">
+    <font color="#00FF88">🌊 Welcome to My GitHub Profile!</font> &nbsp;&nbsp;••&nbsp;&nbsp;
+    <font color="#00D2FF">✨ I'm Charan Aade 👋</font> &nbsp;&nbsp;••&nbsp;&nbsp;
+    <font color="#A855F7">🚀 Self-Taught AI/ML Developer</font> &nbsp;&nbsp;••&nbsp;&nbsp;
+    <font color="#FF007F">🔥 Python & Data Analysis Enthusiast</font> &nbsp;&nbsp;••&nbsp;&nbsp;
+    <font color="#FFB800">💡 Building the Future with AI</font> &nbsp;&nbsp;••&nbsp;&nbsp;
+    <font color="#00FF88">🇮🇳 From India</font>
+  </marquee>
+</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1500&color=00FF88&center=true&vCenter=true&width=900&height=120&lines=🌊+Welcome+to+My+GitHub+Profile!;✨+I'm+Charan+Aade+%F0%9F%91%8B;🚀+Self-Taught+AI%2FML+Developer;🔥+Python+%26+Data+Analysis+Enthusiast;💡+Building+the+Future+with+AI;🇮🇳+From+India" alt="Typing Animation" />
-</h1>
 
 <!-- ==================== SOCIAL BADGES WITH GLOW EFFECT ==================== -->
 
