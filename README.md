@@ -287,93 +287,66 @@
 
 
 
-<!-- ============================================ -->
-<!--   🚀 MODERN PROFESSIONAL ABOUT ME SECTION    -->
-<!-- ============================================ -->
-
+<!-- ==================== MODERN COLORFUL ABOUT ME BANNER ==================== -->
 <p align="center">
-  <h1 align="center" style="font-size: 42px; font-weight: 800; background: linear-gradient(90deg, #00c6ff, #0072ff, #00c6ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 10px;">
-    ⚡ About Me
-  </h1>
-  <p align="center" style="color: #888; font-size: 14px; margin-bottom: 40px;">
-    A passionate developer diving deep into the world of Data & AI
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:a855f7,100:090d16&height=120&section=header&text=🚀%20ABOUT%20ME&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
 </p>
 
-<!-- MODERN CARDS LAYOUT (instead of boring table) -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
-
-  <!-- Card 1: Current Focus -->
-  <div style="flex: 1 1 300px; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.3); backdrop-filter: blur(5px); transition: transform 0.3s ease, border-color 0.3s ease;">
-    <div style="font-size: 30px; margin-bottom: 10px;">🔭</div>
-    <h3 style="color: #fff; margin: 0 0 8px; font-size: 18px;">Current Focus</h3>
-    <p style="color: #aaa; font-size: 14px; line-height: 1.6;">Building Phase 3 Portfolio – Python & Data Analysis Projects</p>
-  </div>
-
-  <!-- Card 2: Learning -->
-  <div style="flex: 1 1 300px; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.3); backdrop-filter: blur(5px); transition: transform 0.3s ease, border-color 0.3s ease;">
-    <div style="font-size: 30px; margin-bottom: 10px;">🌱</div>
-    <h3 style="color: #fff; margin: 0 0 8px; font-size: 18px;">Learning</h3>
-    <p style="color: #aaa; font-size: 14px; line-height: 1.6;">Machine Learning, Pandas, NumPy, Data Visualization</p>
-  </div>
-
-  <!-- Card 3: Collaboration -->
-  <div style="flex: 1 1 300px; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.3); backdrop-filter: blur(5px); transition: transform 0.3s ease, border-color 0.3s ease;">
-    <div style="font-size: 30px; margin-bottom: 10px;">👥</div>
-    <h3 style="color: #fff; margin: 0 0 8px; font-size: 18px;">Collaboration</h3>
-    <p style="color: #aaa; font-size: 14px; line-height: 1.6;">Open-source Python & Data Science Projects</p>
-  </div>
-
-  <!-- Card 4: Seeking Help -->
-  <div style="flex: 1 1 300px; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.3); backdrop-filter: blur(5px); transition: transform 0.3s ease, border-color 0.3s ease;">
-    <div style="font-size: 30px; margin-bottom: 10px;">🤝</div>
-    <h3 style="color: #fff; margin: 0 0 8px; font-size: 18px;">Seeking Help</h3>
-    <p style="color: #aaa; font-size: 14px; line-height: 1.6;">Real-world Project Ideas & Code Feedback</p>
-  </div>
-
-  <!-- Card 5: Ask Me -->
-  <div style="flex: 1 1 300px; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.3); backdrop-filter: blur(5px); transition: transform 0.3s ease, border-color 0.3s ease;">
-    <div style="font-size: 30px; margin-bottom: 10px;">💬</div>
-    <h3 style="color: #fff; margin: 0 0 8px; font-size: 18px;">Ask Me</h3>
-    <p style="color: #aaa; font-size: 14px; line-height: 1.6;">Python, Data Analysis, Self-Taught Journey</p>
-  </div>
-
-  <!-- Card 6: Reach Me (Email Button) -->
-  <div style="flex: 1 1 300px; background: linear-gradient(145deg, rgba(0, 198, 255, 0.1), rgba(0, 114, 255, 0.1)); border: 1px solid rgba(0, 198, 255, 0.3); border-radius: 16px; padding: 25px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-    <div style="font-size: 30px; margin-bottom: 10px;">📫</div>
-    <h3 style="color: #fff; margin: 0 0 8px; font-size: 18px;">Reach Me</h3>
-    <a href="mailto:charanade66@gmail.com" style="text-decoration: none; background: #0072ff; color: #fff; padding: 8px 16px; border-radius: 50px; font-weight: 600; font-size: 14px; display: inline-block; margin-top: 5px; box-shadow: 0 4px 15px rgba(0, 114, 255, 0.4); transition: background 0.3s ease;">
-      📧 charanade66@gmail.com
-    </a>
-  </div>
-
-</div>
-
-<!-- HOVER EFFECT (Mouse le jaane par thoda upar uthega) -->
-<style>
-  div[style*="flex: 1 1 300px"]:hover {
-    transform: translateY(-5px);
-    border-color: rgba(0, 198, 255, 0.6);
-    box-shadow: 0 10px 40px rgba(0, 198, 255, 0.2);
-  }
-</style>
+<!-- ==================== HIGH-TECH COLORFUL GRID BOXES ==================== -->
+<table border="0" align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/🔭%20Current%20Focus-00FF88?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Building Phase 3 Portfolio</b><br />
+      <font color="#8b949e">Python & Data Analysis Projects</font>
+    </td>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/🌱%20Learning-A855F7?style=for-the-badge&labelColor=000000&textColor=ffffff" /><br /><br />
+      <b>Machine Learning & Data Science</b><br />
+      <font color="#8b949e">Pandas, NumPy, Data Visualization</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/👯%20Collaboration-00D2FF?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Open-Source Initiatives</b><br />
+      <font color="#8b949e">Python & Data Science Projects</font>
+    </td>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/🤝%20Seeking%20Help-FF007F?style=for-the-badge&labelColor=000000&textColor=ffffff" /><br /><br />
+      <b>Real-World Feedback</b><br />
+      <font color="#8b949e">Project Ideas & Code Feedback</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/💬%20Ask%20Me-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Core Topics</b><br />
+      <font color="#8b949e">Python, Data Analysis, Self-Taught Journey</font>
+    </td>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/📫%20Reach%20Me-EA4335?style=for-the-badge&labelColor=000000&textColor=ffffff" /><br /><br />
+      <b>Direct Email</b><br />
+      <a href="mailto:charanade66@gmail.com"><code>charanade66@gmail.com</code></a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<!-- FUN FACT SECTION (Modern Divider ke saath) -->
-<div align="center" style="margin-top: 50px; padding: 20px; border-top: 1px solid rgba(255,255,255,0.1); border-bottom: 1px solid rgba(255,255,255,0.1); max-width: 700px; margin-left: auto; margin-right: auto;">
-  <p style="color: #fff; font-size: 18px; margin-bottom: 5px;">⚡ <strong>Fun Fact:</strong></p>
-  <p style="color: #aaa; font-size: 15px; margin: 0;">Building AI/ML Skills – One Project at a Time! 🚀</p>
-</div>
+<!-- ==================== FULL WIDTH FUN FACT CARD ==================== -->
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/⚡%20FUN%20FACT-00FF88?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      🚀 <b>Building AI/ML Skills – One Project at a Time!</b> 🚀
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<!-- FOOTER -->
-<p align="center" style="color: #aaa; font-size: 16px; font-weight: 600; letter-spacing: 1px;">
-  Let's Connect and Build Something <span style="color: #00c6ff;">Amazing</span>! ✨
+<!-- ==================== CONNECT CALLOUT ==================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=35&lines=✨+Let's+Connect+and+Build+Something+Amazing!" alt="Connect Animation" />
 </p>
-
-
-
-
-
