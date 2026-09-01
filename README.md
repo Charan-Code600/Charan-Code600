@@ -103,11 +103,7 @@
 
 
 
-<!-- ==================== GLOWING DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" />
-</p>
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
 
 
 <!-- ==================== WORK EXPERIENCE HEADER BANNER ==================== -->
