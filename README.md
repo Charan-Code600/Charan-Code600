@@ -116,19 +116,60 @@
 </p>
 
 
-<!-- ==================== TECH STACK HEADER BANNER ==================== -->
+<!-- ==================== TECH STACK BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d2ff,100:090d16&height=120&section=header&text=💻%20TECH%20STACK%20%26%20SKILLS&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00ff88,100:090d16&height=120&section=header&text=⚡%20TECH%20STACK%20%26%20ECOSYSTEM&fontSize=36&fontColor=ffffff&fontAlignY=45" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<!-- ==================== CATEGORIZED SKILL MATRIX ==================== -->
+<table border="0" align="center" width="100%">
+  <!-- LANGUAGES -->
+  <tr>
+    <td style="background-color: #0d1117; padding: 18px; border-radius: 12px; border: 1px solid #00ff88;">
+      <h4 style="color: #00ff88; margin-top: 0; margin-bottom: 12px; font-family: 'Fira Code', monospace;">
+        🚀 PROGRAMMING LANGUAGES
+      </h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table border="0" align="center" width="100%">
+  <!-- DATA SCIENCE & ML -->
+  <tr>
+    <td style="background-color: #0d1117; padding: 18px; border-radius: 12px; border: 1px solid #a855f7;">
+      <h4 style="color: #a855f7; margin-top: 0; margin-bottom: 12px; font-family: 'Fira Code', monospace;">
+        🧠 DATA SCIENCE & MACHINE LEARNING
+      </h4>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table border="0" align="center" width="100%">
+  <!-- TOOLS & PLATFORMS -->
+  <tr>
+    <td style="background-color: #0d1117; padding: 18px; border-radius: 12px; border: 1px solid #00d2ff;">
+      <h4 style="color: #00d2ff; margin-top: 0; margin-bottom: 12px; font-family: 'Fira Code', monospace;">
+        🛠️ TOOLS, IDEs & PLATFORMS
+      </h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000" />
+    </td>
+  </tr>
+</table>
 
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
