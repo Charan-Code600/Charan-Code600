@@ -142,6 +142,32 @@
 </p>
 
 
+<br>
+
+<div align="center" style="background: linear-gradient(90deg, #6a3093, #a044ff); padding: 15px; border-radius: 8px;">
+  <h1>💼 WORK EXPERIENCE</h1>
+</div>
+
+<br>
+
+<table align="center" width="90%">
+  <tr>
+    <td>
+      <h3>🚀 AI/ML Developer (Self-Taught) | Self Employed</h3>
+      <p><b>📅 August 2026 - Present</b></p>
+      <p>
+        Self-taught AI/ML Developer, learning Python, data analysis (NumPy, Pandas), 
+        and data visualization. Building real projects and publishing them on GitHub 
+        as part of my portfolio.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+
 <!-- ==================== TECH STACK BANNER ==================== -->
 <div align="center" style="background: linear-gradient(90deg, #0d1117 0%, #1f0933 50%, #0d1117 100%); padding: 25px; border-radius: 12px; border: 2px solid #a855f7; margin-bottom: 20px;">
   <h1 align="center" style="color: #00FF88; font-family: 'Fira Code', monospace; margin: 0; font-size: 28px; letter-spacing: 2px;">
