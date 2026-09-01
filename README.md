@@ -253,9 +253,8 @@
 
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆_GITHUB_TROPHIES-7B2CBF?style=for-the-badge&labelColor=101010" width="70%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:FFD700&height=130&section=header&text=GitHub%20Trophies&fontSize=38&fontColor=000000&fontAlignY=55" width="100%" />
+
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Charan-Code600&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
