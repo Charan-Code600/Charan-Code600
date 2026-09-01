@@ -232,7 +232,9 @@
 
 <!-- ==================== GITHUB STATS WITH 3D EFFECT ==================== -->
 
-### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+GITHUB+ANALYTICS;%F0%9F%93%98+CODING+STATS+%26+METRICS" alt="GitHub Analytics Header" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Charan-Code600&theme=radical&show_icons=true&hide_border=false&count_private=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88" alt="GitHub Stats" width="48%" />
