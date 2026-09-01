@@ -38,11 +38,9 @@
 
 <!-- ==================== COLORFUL ABOUT ME ==================== -->
 
-<h2 align="center">
-  <span style="background: linear-gradient(135deg, #00FF88, #00BFFF); padding: 10px 30px; border-radius: 50px; color: #000; font-size: 32px; font-weight: bold;">
-    🚀 About Me
-  </span>
-</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=About%20Me&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+</p>
 
 <br />
 
