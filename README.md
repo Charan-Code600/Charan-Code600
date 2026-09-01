@@ -13,11 +13,9 @@
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
 
 
-<!-- ==================== MEDIUM-LARGE PROFESSIONAL TYPING ==================== -->
+<!-- ==================== PROFESSIONAL CYBERPUNK TYPING SVG ==================== -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=1000&size=24&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Welcome%20to%20My%20Portfolio;I'm%20Charan%20Aade;Self-Taught%20AI%2FML%20Developer;Specializing%20in%20Python%20%26%20Data%20Analysis;Open%20to%20Collaborations%20%7C%20Based%20in%20India" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=60&lines=⚡+Welcome+to+My+Portfolio;✨+I'm+Charan+Aade;🚀+Self-Taught+AI%2FML+Developer;🐍+Specializing+in+Python+%26+Data+Analysis;🤝+Open+to+Collaborations+%7C+🇮🇳+India" alt="Typing Animation" />
 </p>
 
 
