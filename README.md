@@ -11,9 +11,7 @@
 
 
 <!-- ==================== Typing Animation ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00FF88,100:00BFFF&text=Charan%20Aade&fontSize=65&fontColor=ffffff&animation=twinkling" />
-</p>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Developer;Python+Developer;Data+Analysis+Enthusiast;Building+Projects+That+Solve+Problems" />
