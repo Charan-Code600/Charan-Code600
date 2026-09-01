@@ -10,7 +10,7 @@
 </p>
 
 
-<hr style="border: none; height: 3px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
+<hr style="border: none; height: 5px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
 
 
 <!-- ==================== MEDIUM-LARGE PROFESSIONAL TYPING ==================== -->
