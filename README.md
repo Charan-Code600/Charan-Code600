@@ -353,3 +353,76 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==================== OPTIMIZED SEAMLESS ABOUT ME BANNER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=70&section=header&text=🚀%20ABOUT%20ME&fontSize=30&fontColor=FFB800&stroke=FFB800&strokeWidth=2&fontAlignY=50" width="100%" />
+</p>
+
+
+<!-- ==================== HIGH-TECH COLORFUL GRID BOXES ==================== -->
+<table border="0" align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/🔭%20Current%20Focus-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Building Phase 3 Portfolio</b><br />
+      <font color="#8b949e">Python & Data Analysis Projects</font>
+    </td>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/🌱%20Learning-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Machine Learning & Data Science</b><br />
+      <font color="#8b949e">Pandas, NumPy, Data Visualization</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/👯%20Collaboration-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Open-Source Initiatives</b><br />
+      <font color="#8b949e">Python & Data Science Projects</font>
+    </td>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/🤝%20Seeking%20Help-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Real-World Feedback</b><br />
+      <font color="#8b949e">Project Ideas & Code Feedback</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/💬%20Ask%20Me-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Core Topics</b><br />
+      <font color="#8b949e">Python, Data Analysis, Self-Taught Journey</font>
+    </td>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/📫%20Reach%20Me-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Direct Email</b><br />
+      <a href="mailto:charanade66@gmail.com"><code>charanade66@gmail.com</code></a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ==================== FULL WIDTH FUN FACT CARD ==================== -->
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/⚡%20FUN%20FACT-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      🚀 <b>Building AI/ML Skills – One Project at a Time!</b> 🚀
+    </td>
+  </tr>
+</table>
+
+<br />
