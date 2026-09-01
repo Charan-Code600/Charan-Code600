@@ -12,13 +12,12 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
 
-<!-- ==================== MEGA PROFESSIONAL TYPING BANNER ==================== -->
+<!-- ==================== CINEMATIC ULTRA-PRO TYPING BANNER ==================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&pause=800&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1300&height=130&lines=Welcome%20to%20My%20Portfolio;I'm%20Charan%20Aade;Self-Taught%20AI%2FML%20Developer;Specializing%20in%20Python%20%26%20Data%20Analysis;Open%20to%20Collaborations%20%7C%20Based%20in%20India" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&pause=600&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1300&height=140&lines=%F0%9F%8C%80%20WELCOME%20TO%20MY%20UNIVERSE%20%F0%9F%8C%80;%F0%9F%91%8B%20I'M%20CHARN%20AADE%20%F0%9F%91%8B;%F0%9F%94%A5%20SELF-TAUGHT%20AI%2FML%20DEVELOPER%20%F0%9F%94%A5;%F0%9F%9A%80%20PYTHON%20%7C%20PANDAS%20%7C%20NUMPY%20%7C%20MACHINE%20LEARNING%20%F0%9F%9A%80;%F0%9F%8C%8D%20BASED%20IN%20INDIA%20%F0%9F%87%AE%F0%9F%87%B3" alt="Ultra Pro Typing" />
   </a>
 </p>
-
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
 
