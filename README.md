@@ -12,8 +12,8 @@
 
 <!-- ==================== TYPING ANIMATION ==================== -->
 
-<marquee behavior="scroll" direction="left" scrollamount="10" style="font-size:30px; color:#00FF88;">
-  🚀 Welcome to My GitHub Profile!  |  ✨ I'm Charan Aade  |  🔥 Self-Taught AI/ML Developer  |  💡 Building the Future with AI  |  🇮🇳 From India
+<marquee behavior="scroll" direction="left" scrollamount="12" style="font-size:35px; font-weight:bold; background: linear-gradient(to right, #FF5733, #00FF88, #00BFFF, #FF69B4); -webkit-background-clip: text; color: transparent;">
+  🚀 Welcome to My GitHub Profile!  ✨ I'm Charan Aade  🔥 Self-Taught AI/ML Developer  💡 Building the Future with AI  🇮🇳 From India
 </marquee>
 
 <!-- ==================== SOCIAL BADGES WITH GLOW EFFECT ==================== -->
