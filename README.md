@@ -297,4 +297,79 @@
 
 
 
+<!-- ==================== MODERN COLORFUL ABOUT ME BANNER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:a855f7,100:090d16&height=120&section=header&text=🚀%20ABOUT%20ME&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
+</p>
 
+<!-- ==================== SLICK COLORFUL GRID BOXES (NO BORDERS) ==================== -->
+<table align="center" width="100%" style="border-collapse: collapse; font-family: 'Segoe UI', sans-serif;">
+  
+  <!-- ROW 1 -->
+  <tr>
+    <td width="50%" align="center" style="background-color: #161b22; padding: 20px; border-radius: 12px; margin: 10px;">
+      <img src="https://img.shields.io/badge/🔭%20Current%20Focus-00FF88?style=for-the-badge&labelColor=161b22&textColor=000000" /><br /><br />
+      <b style="color: #ffffff; font-size: 16px;">Building Phase 3 Portfolio</b><br />
+      <span style="color: #8b949e; font-size: 14px;">Python & Data Analysis Projects</span>
+    </td>
+    <td width="10%"></td> <!-- Spacer -->
+    <td width="50%" align="center" style="background-color: #161b22; padding: 20px; border-radius: 12px;">
+      <img src="https://img.shields.io/badge/🌱%20Learning-A855F7?style=for-the-badge&labelColor=161b22&textColor=ffffff" /><br /><br />
+      <b style="color: #ffffff; font-size: 16px;">Machine Learning & Data Science</b><br />
+      <span style="color: #8b949e; font-size: 14px;">Pandas, NumPy, Data Visualization</span>
+    </td>
+  </tr>
+
+  <tr><td colspan="3" style="height: 15px;"></td></tr> <!-- Space between rows -->
+
+  <!-- ROW 2 -->
+  <tr>
+    <td width="50%" align="center" style="background-color: #161b22; padding: 20px; border-radius: 12px;">
+      <img src="https://img.shields.io/badge/👯%20Collaboration-00D2FF?style=for-the-badge&labelColor=161b22&textColor=000000" /><br /><br />
+      <b style="color: #ffffff; font-size: 16px;">Open-Source Initiatives</b><br />
+      <span style="color: #8b949e; font-size: 14px;">Python & Data Science Projects</span>
+    </td>
+    <td width="10%"></td> <!-- Spacer -->
+    <td width="50%" align="center" style="background-color: #161b22; padding: 20px; border-radius: 12px;">
+      <img src="https://img.shields.io/badge/🤝%20Seeking%20Help-FF007F?style=for-the-badge&labelColor=161b22&textColor=ffffff" /><br /><br />
+      <b style="color: #ffffff; font-size: 16px;">Real-World Feedback</b><br />
+      <span style="color: #8b949e; font-size: 14px;">Project Ideas & Code Feedback</span>
+    </td>
+  </tr>
+
+  <tr><td colspan="3" style="height: 15px;"></td></tr> <!-- Space between rows -->
+
+  <!-- ROW 3 -->
+  <tr>
+    <td width="50%" align="center" style="background-color: #161b22; padding: 20px; border-radius: 12px;">
+      <img src="https://img.shields.io/badge/💬%20Ask%20Me-FFB800?style=for-the-badge&labelColor=161b22&textColor=000000" /><br /><br />
+      <b style="color: #ffffff; font-size: 16px;">Core Topics</b><br />
+      <span style="color: #8b949e; font-size: 14px;">Python, Data Analysis, Self-Taught Journey</span>
+    </td>
+    <td width="10%"></td> <!-- Spacer -->
+    <td width="50%" align="center" style="background-color: #161b22; padding: 20px; border-radius: 12px;">
+      <img src="https://img.shields.io/badge/📫%20Reach%20Me-EA4335?style=for-the-badge&labelColor=161b22&textColor=ffffff" /><br /><br />
+      <b style="color: #ffffff; font-size: 16px;">Direct Email</b><br />
+      <a href="mailto:charanade66@gmail.com" style="text-decoration: none; background-color: #238636; color: #ffffff; padding: 5px 12px; border-radius: 6px; font-size: 14px; font-weight: bold;">📧 charanade66@gmail.com</a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ==================== FULL WIDTH FUN FACT CARD ==================== -->
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="background-color: #161b22; padding: 20px; border-radius: 12px;">
+      <img src="https://img.shields.io/badge/⚡%20FUN%20FACT-00FF88?style=for-the-badge&labelColor=161b22&textColor=000000" /><br /><br />
+      <span style="color: #ffffff; font-size: 16px;">🚀 <b>Building AI/ML Skills – One Project at a Time!</b> 🚀</span>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ==================== CONNECT CALLOUT (ANIMATED) ==================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=35&lines=✨+Let's+Connect+and+Build+Something+Amazing!" alt="Connect Animation" />
+</p>
