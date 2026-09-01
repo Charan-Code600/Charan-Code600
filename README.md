@@ -9,18 +9,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
 </p>
 
-
-<!-- ==================== COLORFUL RUNNING NEWS TICKER (MARQUEE) ==================== -->
-<div align="center" style="background: linear-gradient(90deg, #090d16 0%, #1a0b2e 50%, #090d16 100%); padding: 12px 0; border-top: 2px solid #00FF88; border-bottom: 2px solid #A855F7; margin: 20px 0;">
-  <marquee behavior="scroll" direction="left" scrollamount="8" style="font-family: 'Fira Code', monospace; font-size: 20px; font-weight: bold;">
-    <font color="#00FF88">🌊 Welcome to My GitHub Profile!</font> &nbsp;&nbsp;••&nbsp;&nbsp;
-    <font color="#00D2FF">✨ I'm Charan Aade 👋</font> &nbsp;&nbsp;••&nbsp;&nbsp;
-    <font color="#A855F7">🚀 Self-Taught AI/ML Developer</font> &nbsp;&nbsp;••&nbsp;&nbsp;
-    <font color="#FF007F">🔥 Python & Data Analysis Enthusiast</font> &nbsp;&nbsp;••&nbsp;&nbsp;
-    <font color="#FFB800">💡 Building the Future with AI</font> &nbsp;&nbsp;••&nbsp;&nbsp;
-    <font color="#00FF88">🇮🇳 From India</font>
-  </marquee>
-</div>
+<!-- ==================== WORKING SCROLLING TICKER (SVG ANIMATION) ==================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=850&height=50&lines=%F0%9F%8C%8A+Welcome+to+My+GitHub+Profile!;%E2%9C%A8+I'm+Charan+Aade+%F0%9F%91%8B;%F0%9F%9A%80+Self-Taught+AI%2FML+Developer;%F0%9F%94%A5+Python+%26+Data+Analysis+Enthusiast;%F0%9F%92%A1+Building+the+Future+with+AI;%F0%9F%87%AE%F0%9F%87%B3+From+India" alt="Scrolling Animation" />
+</p>
 
 
 <!-- ==================== SOCIAL BADGES WITH GLOW EFFECT ==================== -->
