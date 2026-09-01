@@ -36,60 +36,71 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" />
 </p>
 
-<!-- ==================== COLORFUL ABOUT ME ==================== -->
-
+<!-- ==================== MODERN COLORFUL ABOUT ME BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:a855f7,100:090d16&height=120&section=header&text=🚀%20ABOUT%20ME&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
 </p>
 
-<p align="center">
-  <table border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; background: #0d0d0d; border-radius: 20px; padding: 20px;">
-    <tr>
-      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #00FF88;">
-        <strong style="color: #00FF88; font-size: 22px;">🔭 Current Focus</strong><br />
-        <span style="color: #ffffff; font-size: 16px;">Building Phase 3 Portfolio – Python & Data Analysis Projects</span>
-      </td>
-      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FF5733;">
-        <strong style="color: #FF5733; font-size: 22px;">🌱 Learning</strong><br />
-        <span style="color: #ffffff; font-size: 16px;">Machine Learning, Pandas, NumPy, Data Visualization</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #00BFFF;">
-        <strong style="color: #00BFFF; font-size: 22px;">👯 Collaboration</strong><br />
-        <span style="color: #ffffff; font-size: 16px;">Open-source Python & Data Science Projects</span>
-      </td>
-      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FFA500;">
-        <strong style="color: #FFA500; font-size: 22px;">🤝 Seeking Help</strong><br />
-        <span style="color: #ffffff; font-size: 16px;">Real-world Project Ideas & Code Feedback</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FF69B4;">
-        <strong style="color: #FF69B4; font-size: 22px;">💬 Ask Me</strong><br />
-        <span style="color: #ffffff; font-size: 16px;">Python, Data Analysis, Self-Taught Journey</span>
-      </td>
-      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FFD700;">
-        <strong style="color: #FFD700; font-size: 22px;">📫 Reach Me</strong><br />
-        <a href="mailto:charanade66@gmail.com" style="color: #FFD700; text-decoration: none; font-weight: bold; font-size: 16px;">charanade66@gmail.com</a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #8A2BE2;">
-        <strong style="color: #8A2BE2; font-size: 22px;">⚡ Fun Fact</strong><br />
-        <span style="color: #ffffff; font-size: 16px;">Building AI/ML Skills – One Project at a Time! 🚀</span>
-      </td>
-    </tr>
-  </table>
-</p>
+<!-- ==================== HIGH-TECH COLORFUL GRID BOXES ==================== -->
+<table border="0" align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/🔭%20Current%20Focus-00FF88?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Building Phase 3 Portfolio</b><br />
+      <font color="#8b949e">Python & Data Analysis Projects</font>
+    </td>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/🌱%20Learning-A855F7?style=for-the-badge&labelColor=000000&textColor=ffffff" /><br /><br />
+      <b>Machine Learning & Data Science</b><br />
+      <font color="#8b949e">Pandas, NumPy, Data Visualization</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/👯%20Collaboration-00D2FF?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Open-Source Initiatives</b><br />
+      <font color="#8b949e">Python & Data Science Projects</font>
+    </td>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/🤝%20Seeking%20Help-FF007F?style=for-the-badge&labelColor=000000&textColor=ffffff" /><br /><br />
+      <b>Real-World Feedback</b><br />
+      <font color="#8b949e">Project Ideas & Code Feedback</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/💬%20Ask%20Me-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      <b>Core Topics</b><br />
+      <font color="#8b949e">Python, Data Analysis, Self-Taught Journey</font>
+    </td>
+    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/📫%20Reach%20Me-EA4335?style=for-the-badge&labelColor=000000&textColor=ffffff" /><br /><br />
+      <b>Direct Email</b><br />
+      <a href="mailto:charanade66@gmail.com"><code>charanade66@gmail.com</code></a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
+<!-- ==================== FULL WIDTH FUN FACT CARD ==================== -->
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/⚡%20FUN%20FACT-00FF88?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+      🚀 <b>Building AI/ML Skills – One Project at a Time!</b> 🚀
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ==================== CONNECT CALLOUT ==================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" />
-  <strong style="color: #00FF88; font-size: 20px;">Let's Connect and Build Something Amazing!</strong>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=35&lines=✨+Let's+Connect+and+Build+Something+Amazing!" alt="Connect Animation" />
 </p>
+
+
 
 
 <!-- ==================== GLOWING DIVIDER ==================== -->
@@ -287,66 +298,3 @@
 
 
 
-<!-- ==================== MODERN COLORFUL ABOUT ME BANNER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:a855f7,100:090d16&height=120&section=header&text=🚀%20ABOUT%20ME&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
-</p>
-
-<!-- ==================== HIGH-TECH COLORFUL GRID BOXES ==================== -->
-<table border="0" align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/🔭%20Current%20Focus-00FF88?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      <b>Building Phase 3 Portfolio</b><br />
-      <font color="#8b949e">Python & Data Analysis Projects</font>
-    </td>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/🌱%20Learning-A855F7?style=for-the-badge&labelColor=000000&textColor=ffffff" /><br /><br />
-      <b>Machine Learning & Data Science</b><br />
-      <font color="#8b949e">Pandas, NumPy, Data Visualization</font>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/👯%20Collaboration-00D2FF?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      <b>Open-Source Initiatives</b><br />
-      <font color="#8b949e">Python & Data Science Projects</font>
-    </td>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/🤝%20Seeking%20Help-FF007F?style=for-the-badge&labelColor=000000&textColor=ffffff" /><br /><br />
-      <b>Real-World Feedback</b><br />
-      <font color="#8b949e">Project Ideas & Code Feedback</font>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/💬%20Ask%20Me-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      <b>Core Topics</b><br />
-      <font color="#8b949e">Python, Data Analysis, Self-Taught Journey</font>
-    </td>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/📫%20Reach%20Me-EA4335?style=for-the-badge&labelColor=000000&textColor=ffffff" /><br /><br />
-      <b>Direct Email</b><br />
-      <a href="mailto:charanade66@gmail.com"><code>charanade66@gmail.com</code></a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- ==================== FULL WIDTH FUN FACT CARD ==================== -->
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/⚡%20FUN%20FACT-00FF88?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      🚀 <b>Building AI/ML Skills – One Project at a Time!</b> 🚀
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- ==================== CONNECT CALLOUT ==================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=35&lines=✨+Let's+Connect+and+Build+Something+Amazing!" alt="Connect Animation" />
-</p>
