@@ -275,3 +275,99 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ============================================ -->
+<!--   🌈 RAINBOW PUFF SNAKE ANIMATION SECTION   -->
+<!-- ============================================ -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
+
+<!-- RAINBOW HEADER -->
+<p align="center">
+  <span style="font-size: 32px; font-weight: 900; background: linear-gradient(90deg, #FF0000, #FF7700, #FFFF00, #00FF00, #0000FF, #8B00FF, #FF0000); background-size: 300% 300%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: rainbowMove 4s ease-in-out infinite; letter-spacing: 3px;">
+    🌈 RAINBOW CONTRIBUTION SNAKE
+  </span>
+  <br />
+  <span style="color: #aaa; font-size: 15px; letter-spacing: 5px; text-transform: uppercase; animation: pulse 3s ease-in-out infinite;">
+    ✨ Every Dot Puffs with Colors! ✨
+  </span>
+</p>
+
+<br />
+
+<!-- SNAKE ANIMATION WITH RAINBOW GLOW -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
+         alt="Rainbow Snake Animation" 
+         width="100%"
+         style="max-width: 850px; 
+                border-radius: 30px; 
+                box-shadow: 0 0 80px rgba(255,0,0,0.2), 
+                            0 0 160px rgba(255,100,0,0.15),
+                            0 0 240px rgba(255,255,0,0.1),
+                            0 0 320px rgba(0,255,0,0.08),
+                            0 0 400px rgba(0,100,255,0.05);
+                border: 2px solid rgba(255,255,255,0.05);
+                transition: all 0.6s ease;
+                animation: rainbowGlow 4s ease-in-out infinite;" 
+         onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 120px rgba(255,0,0,0.4), 0 0 200px rgba(255,100,0,0.3), 0 0 300px rgba(255,255,0,0.2)'"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 80px rgba(255,0,0,0.2), 0 0 160px rgba(255,100,0,0.15), 0 0 240px rgba(255,255,0,0.1)'" />
+  </picture>
+</p>
+
+<!-- RAINBOW BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🌈_Rainbow_Mode-Active-FF0000?style=for-the-badge&logo=rainbow&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎨_Puff_Effect-Enabled-FF7700?style=for-the-badge&logo=colors&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/⚡_Every_Dot-Colorful-FFFF00?style=for-the-badge&logo=sparkles&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🐍_Snake-Eats_Rainbow-00FF00?style=for-the-badge&logo=snake&logoColor=white&labelColor=0D1117" />
+</p>
+
+<!-- RAINBOW QUOTE -->
+<p align="center">
+  <span style="color: #888; font-size: 14px; font-style: italic; letter-spacing: 2px; background: linear-gradient(90deg, #FF0000, #FF7700, #FFFF00, #00FF00, #0000FF, #8B00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: rainbowMove 3s ease-in-out infinite;">
+    ✨ “Every contribution shines in its own color!” ✨
+  </span>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
+
+<!-- ===== CSS ANIMATIONS (Add these inside <style> in your README if supported) ===== -->
+<style>
+  @keyframes rainbowMove {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  @keyframes rainbowGlow {
+    0% { filter: hue-rotate(0deg) drop-shadow(0 0 20px rgba(255,0,0,0.3)); }
+    25% { filter: hue-rotate(90deg) drop-shadow(0 0 30px rgba(255,100,0,0.3)); }
+    50% { filter: hue-rotate(180deg) drop-shadow(0 0 40px rgba(255,255,0,0.3)); }
+    75% { filter: hue-rotate(270deg) drop-shadow(0 0 30px rgba(0,255,0,0.3)); }
+    100% { filter: hue-rotate(360deg) drop-shadow(0 0 20px rgba(255,0,0,0.3)); }
+  }
+  
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.7; transform: scale(1.05); }
+  }
+</style>
