@@ -116,14 +116,9 @@
 </p>
 
 
-<!-- ==================== TECH STACK WITH ANIMATION ==================== -->
-
-### 💻 Tech Stack
-
+<!-- ==================== TECH STACK HEADER BANNER ==================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
-  <strong>Tools & Technologies I Work With</strong>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d2ff,100:090d16&height=120&section=header&text=💻%20TECH%20STACK%20%26%20SKILLS&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
 </p>
 
 <p align="center">
