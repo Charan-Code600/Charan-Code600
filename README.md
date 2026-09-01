@@ -197,37 +197,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-1396aedaec5c.gif" alt="Glowing Divider" />
 </p>
 
-<!-- ==================== QUOTE OF THE DAY ==================== -->
-
-### 📝 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
-
-<!-- ==================== PROFILE VIEWS WITH GLOW ==================== -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=00FF88&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<!-- ==================== GLOWING DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-1396aedaec5c.gif" alt="Glowing Divider" />
-</p>
 
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
 </p>
-
-
-
-
-
-
 
 
 
