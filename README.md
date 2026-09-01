@@ -13,27 +13,7 @@
 <!-- ==================== TYPING ANIMATION ==================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1500&color=00FF88&center=true&vCenter=true&width=900&height=120&lines=🌊+Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1500&color=FF5733&center=true&vCenter=true&width=900&height=120&lines=✨+I'm+Charan+Aade+%F0%9F%91%8B" alt="Typing Animation" />
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1500&color=00BFFF&center=true&vCenter=true&width=900&height=100&lines=🚀+Self-Taught+AI%2FML+Developer" alt="Typing Animation" />
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1500&color=FFA500&center=true&vCenter=true&width=900&height=100&lines=🔥+Python+%26+Data+Analysis+Enthusiast" alt="Typing Animation" />
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1500&color=FF69B4&center=true&vCenter=true&width=900&height=100&lines=💡+Building+the+Future+with+AI" alt="Typing Animation" />
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&width=900&height=100&lines=🇮🇳+From+India" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1500&color=00FF88&center=true&vCenter=true&width=900&height=120&lines=🌊+Welcome+to+My+GitHub+Profile!;✨+I'm+Charan+Aade+%F0%9F%91%8B;🚀+Self-Taught+AI%2FML+Developer;🔥+Python+%26+Data+Analysis+Enthusiast;💡+Building+the+Future+with+AI;🇮🇳+From+India" alt="Typing Animation" />
 </h1>
 
 
