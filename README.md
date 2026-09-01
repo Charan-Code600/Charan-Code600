@@ -117,9 +117,14 @@
 
 
 <!-- ==================== TECH STACK BANNER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00ff88,100:090d16&height=120&section=header&text=⚡%20TECH%20STACK%20%26%20ECOSYSTEM&fontSize=36&fontColor=ffffff&fontAlignY=45" width="100%" />
-</p>
+<div align="center" style="background: linear-gradient(90deg, #0d1117 0%, #1f0933 50%, #0d1117 100%); padding: 25px; border-radius: 12px; border: 2px solid #a855f7; margin-bottom: 20px;">
+  <h1 align="center" style="color: #00FF88; font-family: 'Fira Code', monospace; margin: 0; font-size: 28px; letter-spacing: 2px;">
+    ⚡ TECH STACK & ECOSYSTEM
+  </h1>
+  <p align="center" style="color: #a855f7; margin-top: 5px; font-weight: bold;">
+    Tools, Technologies & Neural Frameworks I Work With
+  </p>
+</div>
 
 <!-- ==================== CATEGORIZED SKILL MATRIX ==================== -->
 <table border="0" align="center" width="100%">
