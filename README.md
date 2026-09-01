@@ -10,12 +10,11 @@
 </p>
 
 
-<!-- ==================== Typing Animation ==================== -->
+<!-- ==================== TYPING ANIMATION ==================== -->
 
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Developer;Python+Developer;Data+Analysis+Enthusiast;Building+Projects+That+Solve+Problems" />
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1500&color=00FF88&center=true&vCenter=true&width=900&height=100&lines=🚀+Welcome+to+My+GitHub+Profile!;✨+I'm+Charan+Aade+%F0%9F%91%8B;🔥+Self-Taught+AI%2FML+Developer;💡+Python+%26+Data+Analysis+Enthusiast;🌊+Building+the+Future+with+AI;🇮🇳+From+India" alt="Typing Animation" />
+</h1>
 
 
 <!-- ==================== SOCIAL BADGES WITH GLOW EFFECT ==================== -->
