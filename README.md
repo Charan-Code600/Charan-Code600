@@ -24,7 +24,13 @@
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
 
 
-<!-- ==================== HIGH-END CYBERPUNK TERMINAL SOCIAL CONNECT ==================== -->
+<!-- ==================== SOCIAL CONNECT ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header&text=SOCIAL%20CONNECT&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+</p>
+
+
 
 <table border="0" align="center">
   <tr>
