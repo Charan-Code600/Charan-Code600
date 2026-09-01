@@ -4,8 +4,9 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=65&pause=600&color=00FF88&center=true&vCenter=true&width=1000&height=150&lines=🌊+Welcome+to+My+GitHub+Profile!;✨+I'm+Charan+Aade+%F0%9F%91%8B;🚀+Self-Taught+AI%2FML+Developer;🔥+Python+%26+Data+Analysis+Enthusiast;💡+Building+the+Future+with+AI;🇮🇳+From+India" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=00FF88&center=true&vCenter=true&width=750&height=70&lines=🌊+Welcome+to+My+GitHub+Profile!;✨+I'm+Charan+Aade+%F0%9F%91%8B;🚀+Self-Taught+AI%2FML+Developer;🔥+Python+%26+Data+Analysis+Enthusiast;💡+Building+the+Future+with+AI;🇮🇳+From+India" alt="Typing Animation" />
 </h1>
+
 
 <!-- ==================== ANIMATED BANNER ==================== -->
 
