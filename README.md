@@ -366,3 +366,15 @@
 
 
 
+
+
+<!-- ==================== TECH STACK BANNER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=header&text=⚡%20TECH%20STACK%20%26%20ECOSYSTEM&fontSize=26&fontColor=FFB800&fontAlignY=65" width="100%" />
+</p>
+
+<p align="center">
+  <font color="#8b949e">Tools, Technologies & Frameworks I Work With</font>
+</p>
+
+<br />
