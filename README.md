@@ -355,17 +355,23 @@
 
 
 
-
-
 <!-- ==================== WORK EXPERIENCE SECTION ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=70&section=header&text=💼%20WORK%20EXPERIENCE&fontSize=30&fontColor=00FF88&stroke=A855F7&strokeWidth=2&fontAlignY=50" width="100%" />
-</p>
-
-<!-- EXPERIENCE CARD (Or Open to Work Message) -->
 <table border="0" align="center" width="100%">
   <tr>
-    <td align="center" bgcolor="#0d1117" style="border: 1px solid #00FF88; border-radius: 10px; padding: 15px;">
+    <td align="center" bgcolor="#0d1117" style="border: 2px solid #A855F7; border-radius: 12px; padding: 12px;">
+      <font size="5" color="#00FF88" face="Fira Code, monospace">
+        <b>💼 WORK EXPERIENCE</b>
+      </font>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- OPPORTUNITIES CARD -->
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#161b22" style="border: 1px solid #00F0FF; border-radius: 10px; padding: 15px;">
       <font color="#00F0FF" face="Fira Code, monospace" size="3">
         <b>🚀 Open to AI/ML & Data Science Opportunities (Internships & Projects)</b>
       </font>
@@ -379,10 +385,17 @@
 
 <br /><br />
 
-<!-- ==================== TECH STACK SECTION BANNER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=70&section=header&text=⚡%20TECH%20STACK%20%26%20ECOSYSTEM&fontSize=30&fontColor=00FF88&stroke=00F0FF&strokeWidth=2&fontAlignY=50" width="100%" />
-</p>
+<!-- ==================== TECH STACK SECTION BANNER (100% STABLE) ==================== -->
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#0d1117" style="border: 2px solid #00F0FF; border-radius: 12px; padding: 12px;">
+      <font size="5" color="#00FF88" face="Fira Code, monospace">
+        <b>⚡ TECH STACK & ECOSYSTEM</b>
+      </font>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <sub><font color="#8b949e" face="Fira Code">Tools, Technologies & Neural Frameworks I Work With</font></sub>
 </p>
