@@ -350,24 +350,5 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </p>
 
-<!-- ===== CSS ANIMATIONS (Add these inside <style> in your README if supported) ===== -->
-<style>
-  @keyframes rainbowMove {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  @keyframes rainbowGlow {
-    0% { filter: hue-rotate(0deg) drop-shadow(0 0 20px rgba(255,0,0,0.3)); }
-    25% { filter: hue-rotate(90deg) drop-shadow(0 0 30px rgba(255,100,0,0.3)); }
-    50% { filter: hue-rotate(180deg) drop-shadow(0 0 40px rgba(255,255,0,0.3)); }
-    75% { filter: hue-rotate(270deg) drop-shadow(0 0 30px rgba(0,255,0,0.3)); }
-    100% { filter: hue-rotate(360deg) drop-shadow(0 0 20px rgba(255,0,0,0.3)); }
-  }
-  
-  @keyframes pulse {
-    0%, 100% { opacity: 1; transform: scale(1); }
-    50% { opacity: 0.7; transform: scale(1.05); }
-  }
-</style>
+
+
