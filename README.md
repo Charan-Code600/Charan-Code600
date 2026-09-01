@@ -142,22 +142,30 @@
 </p>
 
 
+<div align="center">
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 1px solid #30363d; border-left: 4px solid #58a6ff; border-radius: 8px; padding: 18px 22px;">
-      <h3 style="margin: 0; color: #58a6ff; font-family: 'Segoe UI', sans-serif; font-size: 18px;">
-        🤖 AI/ML Developer (Self-Taught) <span style="color: #8b949e; font-size: 14px; font-weight: normal;">| Self Employed</span>
-      </h3>
-      <p style="margin: 6px 0 12px 0; color: #7ee787; font-family: monospace; font-size: 13px; font-weight: bold;">
-        📅 August 2026 – Present
-      </p>
-      <p style="margin: 0; color: #c9d1d9; font-family: 'Segoe UI', sans-serif; font-size: 14px; line-height: 1.6;">
-        Self-taught AI/ML Developer passionate about mastering Python, data analysis with NumPy and Pandas, and data visualization. Actively building real-world projects, publishing clean code on GitHub, and developing a strong portfolio aimed at freelancing and delivering high-impact solutions for clients.
-      </p>
-    </td>
-  </tr>
-</table>
+  <!-- Role & Type Badges -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/ROLE-AI%2FML%20DEVELOPER%20(SELF--TAUGHT)-00F5D4?style=for-the-badge&labelColor=101010&logo=python&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/TYPE-SELF%20EMPLOYED-7B2CBF?style=for-the-badge&labelColor=101010" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Duration Badge -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/DURATION-AUGUST%202026%20--%20PRESENT-00BBF9?style=for-the-badge&labelColor=101010" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Description Box -->
+  <sub><b>Self-taught AI/ML Developer learning Python, data analysis with NumPy & Pandas, and data visualization. Building real-world projects and publishing them on GitHub to expand my portfolio with the goal of freelancing and delivering client value.</b></sub>
+
+</div>
 
 
 
