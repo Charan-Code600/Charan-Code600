@@ -42,16 +42,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
 </p>
 
-<br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Self--Taught_AI/ML_Developer-00FF88?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python_&_Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Building_Phase_3_Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<br />
-
 <p align="center">
   <table border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; background: #0d0d0d; border-radius: 20px; padding: 20px;">
     <tr>
