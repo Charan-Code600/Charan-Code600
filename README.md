@@ -39,7 +39,7 @@
 <!-- ==================== COLORFUL ABOUT ME ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=About%20Me&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=About%20Me&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
 </p>
 
 <br />
