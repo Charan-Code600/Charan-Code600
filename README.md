@@ -10,10 +10,10 @@
 </p>
 
 
-<!-- ==================== ANIMATED MULTI-LINE TYPING TICKER ==================== -->
+<!-- ==================== MODERN PROFESSIONAL TYPING ==================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%8C%8A+Welcome+to+My+GitHub+Profile!;%E2%9C%A8+I'm+Charan+Aade+%F0%9F%91%8B;%F0%9F%9A%80+Self-Taught+AI%2FML+Developer;%F0%9F%94%A5+Python+%26+Data+Analysis+Enthusiast;%F0%9F%92%A1+Building+the+Future+with+AI;%F0%9F%87%AE%F0%9F%87%B3+From+India" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Welcome%20to%20My%20Portfolio;I'm%20Charan%20Aade;Self-Taught%20AI%2FML%20Developer;Specializing%20in%20Python%20%26%20Data%20Analysis;Open%20to%20Collaborations%20%7C%20Based%20in%20India" alt="Typing Animation" />
   </a>
 </p>
 
