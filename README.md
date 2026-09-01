@@ -252,10 +252,13 @@
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
 <div align="center">
-  <br/>
-  <h2>🏆 GITHUB TROPHIES & MILESTONES</h2>
-  <p><i>Recognitions, Badges & Activity Milestones</i></p>
-  <hr width="80%" style="border: 1px solid #30363d;" />
+
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&customColorList=0,2,10,24,30&height=60&text=🏆%20GITHUB%20TROPHIES%20%26%20MILESTONES&fontSize=20&fontAlignY=50&fontColor=ffffff" width="100%" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophies.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
 </div>
 
 <p align="center">
