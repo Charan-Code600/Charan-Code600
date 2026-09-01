@@ -23,7 +23,7 @@
 <!-- ==================== SOCIAL CONNECT ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=0&section=header&text=SOCIAL%20CONNECT&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=&section=header&text=SOCIAL%20CONNECT&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
 </p>
 
 
