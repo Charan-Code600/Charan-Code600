@@ -95,10 +95,13 @@
 
 <br />
 
-<!-- ==================== CONNECT CALLOUT ==================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=35&lines=✨+Let's+Connect+and+Build+Something+Amazing!" alt="Connect Animation" />
-</p>
+
+<!-- ==================== RELIABLE CONNECT CALLOUT ==================== -->
+<div align="center" style="background: linear-gradient(90deg, #0d1117 0%, #161b22 50%, #0d1117 100%); padding: 15px; border-radius: 10px; border: 1px solid #00FF88; margin: 20px 0;">
+  <h3 align="center" style="color: #00FF88; font-family: 'Fira Code', monospace; margin: 0; font-size: 20px;">
+    ✨ Let's Connect and Build Something Amazing! ✨
+  </h3>
+</div>
 
 
 
