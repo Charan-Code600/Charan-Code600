@@ -9,10 +9,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
 </p>
 
-<!-- ==================== NEXT-GEN CYBERPUNK ANIMATED BANNER ==================== -->
+
+<!-- ==================== ANIMATED MULTI-LINE TYPING TICKER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:1a0b2e,100:090d16&height=120&section=header&text=🌊%20Welcome%20to%20My%20GitHub%20Profile!%20%E2%80%A2%20Charan%20Aade%20👋&fontSize=26&fontColor=00FF88&animation=twinkling&desc=🚀%20Self-Taught%20AI/ML%20Developer%20%E2%80%A2%20Python%20%26%20Data%20Analysis%20Enthusiast%20%E2%80%A2%20🇮🇳%20From%20India&descSize=16&descAlignY=72&descColor=a855f7" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%8C%8A+Welcome+to+My+GitHub+Profile!;%E2%9C%A8+I'm+Charan+Aade+%F0%9F%91%8B;%F0%9F%9A%80+Self-Taught+AI%2FML+Developer;%F0%9F%94%A5+Python+%26+Data+Analysis+Enthusiast;%F0%9F%92%A1+Building+the+Future+with+AI;%F0%9F%87%AE%F0%9F%87%B3+From+India" alt="Typing Animation" />
+  </a>
 </p>
+
+
 
 
 <!-- ==================== SOCIAL BADGES WITH GLOW EFFECT ==================== -->
