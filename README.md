@@ -1,13 +1,13 @@
 <!-- ==================== 3D ANIMATED HEADER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Charan%20Aade&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20%7C%20Data%20Analysis%20Enthusiast&descAlignY=60&descAlign=50" alt="Premium 3D Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=Charan%20Aade&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20%7C%20Data%20Analysis%20Enthusiast%20%7C%20Self-Taught%20Learner&descAlignY=60&descAlign=50" alt="Premium 3D Banner" />
 </p>
 
-<!-- ==================== TYPING ANIMATION WITH GLOW ==================== -->
+<!-- ==================== GLOWING TYPING ANIMATION ==================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Universe!;I'm+Charan+Aade+%F0%9F%9A%80;Self-Taught+AI%2FML+Developer;Python+%26+Data+Analysis+Expert;Building+the+Future+with+AI;From+India+%F0%9F%87%AE%F0%9F%87%B3;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Glowing Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Universe!;I'm+Charan+Aade+%F0%9F%9A%80;Self-Taught+AI%2FML+Developer;Python+%26+Data+Analysis+Expert;Building+the+Future+with+AI;From+India+%F0%9F%87%AE%F0%9F%87%B3;Always+Learning+%26+Growing+%F0%9F%8C%B1;Let's+Connect+%26+Collaborate!;Open+Source+Enthusiast;Code+is+Poetry+%F0%9F%92%BB" alt="Glowing Typing Animation" />
 </p>
 
 <!-- ==================== GLOWING DIVIDER ==================== -->
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/charanaade">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=20" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=25" />
   </a>
   <a href="mailto:charanade66@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" />
@@ -40,6 +40,12 @@
   <a href="https://dev.to/yourusername">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A&color=0A0A0A" />
   </a>
+  <a href="https://www.instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" />
+  </a>
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00&color=FFDD00" />
+  </a>
 </p>
 
 <!-- ==================== GLOWING DIVIDER ==================== -->
@@ -53,16 +59,24 @@
 ### 🚀 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" /> 
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" /> 
   <strong>Self-Taught AI/ML Developer</strong> 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40" />
   <strong>Python & Data Analysis Enthusiast</strong>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40" />
+  <strong>From India 🇮🇳</strong>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40" />
+</p>
+
+<!-- ==================== MERMAID DIAGRAM ==================== -->
 
 ```mermaid
 graph TD;
@@ -72,8 +86,13 @@ graph TD;
     B --> E[Python];
     B --> F[Pandas];
     B --> G[NumPy];
-    C --> H[Data Visualization];
-    C --> I[Statistics];
-    D --> J[Continuous Learning];
-    D --> K[Open Source];
-
+    B --> H[Scikit-learn];
+    C --> I[Data Visualization];
+    C --> J[Statistics];
+    C --> K[Power BI];
+    D --> L[Continuous Learning];
+    D --> M[Open Source];
+    D --> N[Problem Solving];
+    L --> O[Deep Learning];
+    L --> P[MLOps];
+    L --> Q[LLM];
