@@ -252,13 +252,19 @@
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&customColorList=0,2,10,24,30&height=60&text=🏆%20GITHUB%20TROPHIES%20%26%20MILESTONES&fontSize=20&fontAlignY=50&fontColor=ffffff" width="100%" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophies.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
+  <svg width="100%" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00F5D4" />
+        <stop offset="50%" stop-color="#7B2CBF" />
+        <stop offset="100%" stop-color="#FF007F" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="60" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <text x="50%" y="38" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle">
+      🏆 GITHUB TROPHIES & MILESTONES
+    </text>
+  </svg>
 </div>
 
 <p align="center">
