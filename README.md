@@ -177,9 +177,11 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</picture>
 
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
