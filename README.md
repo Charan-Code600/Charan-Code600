@@ -252,7 +252,7 @@
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_GITHUB_TROPHIES-7B2CBF?style=for-the-badge&labelColor=101010" width="100%" />
+  <img src="https://img.shields.io/badge/🏆_GITHUB_TROPHIES-7B2CBF?style=for-the-badge&labelColor=101010" width="70%" />
 </p>
 
 <p align="center">
