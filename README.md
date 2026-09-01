@@ -1,98 +1,119 @@
-<!-- ==================== 3D ANIMATED HEADER ==================== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=Charan%20Aade&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20%7C%20Data%20Analysis%20Enthusiast%20%7C%20Self-Taught%20Learner&descAlignY=60&descAlign=50" alt="Premium 3D Banner" />
-</p>
-
-<!-- ==================== GLOWING TYPING ANIMATION ==================== -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Universe!;I'm+Charan+Aade+%F0%9F%9A%80;Self-Taught+AI%2FML+Developer;Python+%26+Data+Analysis+Expert;Building+the+Future+with+AI;From+India+%F0%9F%87%AE%F0%9F%87%B3;Always+Learning+%26+Growing+%F0%9F%8C%B1;Let's+Connect+%26+Collaborate!;Open+Source+Enthusiast;Code+is+Poetry+%F0%9F%92%BB" alt="Glowing Typing Animation" />
-</p>
-
-<!-- ==================== GLOWING DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" />
-</p>
-
-<!-- ==================== SOCIAL BADGES WITH GLOW EFFECT ==================== -->
-
-<p align="center">
-  <a href="https://linkedin.com/in/charanaade">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=25" />
-  </a>
-  <a href="mailto:charanade66@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" />
-  </a>
-  <a href="https://twitter.com/charanaade">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" />
-  </a>
-  <a href="https://medium.com/@charanaade">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&color=000000" />
-  </a>
-  <a href="https://github.com/Charan-Code600">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" />
-  </a>
-  <a href="https://www.youtube.com/@yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000" />
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A&color=0A0A0A" />
-  </a>
-  <a href="https://www.instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" />
-  </a>
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00&color=FFDD00" />
-  </a>
-</p>
-
-<!-- ==================== GLOWING DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" />
-</p>
-
-<!-- ==================== ABOUT ME WITH ANIMATED ICONS ==================== -->
-
-### 🚀 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" /> 
-  <strong>Self-Taught AI/ML Developer</strong> 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:8a2be2&height=200&section=header&text=Charan%20Aade&fontSize=60&fontColor=ffffff&animation=twinkling&desc=AI%2FML%20Developer%20%E2%80%A2%20Data%20Scientist%20In%20The%20Making&descSize=20&descAlignY=70" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40" />
-  <strong>Python & Data Analysis Enthusiast</strong>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=50&lines=%3C%2F%3E+Self-Taught+AI%2FML+Developer;%F0%9F%93%88+Turning+Raw+Data+Into+Intelligence;%F0%9F%90%8D+Mastering+Python%2C+Data+Analysis+%26+ML;%F0%9F%9A%80+Building+The+Future+One+Model+At+A+Time" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40" />
-  <strong>From India 🇮🇳</strong>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40" />
+  <a href="https://linkedin.com/in/charanaade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:charanade66@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Charan-Code600"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/charanaade"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<!-- ==================== MERMAID DIAGRAM ==================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" alt="Profile Views" />
+</p>
 
-```mermaid
-graph TD;
-    A[Charan Aade] --> B[AI/ML Developer];
-    A --> C[Data Analysis Expert];
-    A --> D[Self-Taught Learner];
-    B --> E[Python];
-    B --> F[Pandas];
-    B --> G[NumPy];
-    B --> H[Scikit-learn];
-    C --> I[Data Visualization];
-    C --> J[Statistics];
-    C --> K[Power BI];
-    D --> L[Continuous Learning];
-    D --> M[Open Source];
-    D --> N[Problem Solving];
-    L --> O[Deep Learning];
-    L --> P[MLOps];
-    L --> Q[LLM];
+<br />
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ About Me</h3>
+      <ul>
+        <li>🔭 <b>Focus:</b> Building advanced AI/ML algorithms & Data Pipelines.</li>
+        <li>🌱 <b>Tech Arsenal:</b> Deep-diving into Machine Learning, Deep Learning, & Big Data.</li>
+        <li>👯 <b>Open Source:</b> Eager to collaborate on Python & Data Science initiatives.</li>
+        <li>💬 <b>Ask Me About:</b> Data Analysis, Python Automation, Model Optimization.</li>
+        <li>📫 <b>Contact:</b> <code>charanade66@gmail.com</code></li>
+        <li>🎯 <b>Goal:</b> Innovating scalable AI solutions for real-world business challenges.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan-Code600&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h3>💻 Core Technologies & Skill Matrix</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+<br />
+
+<h3>💼 Professional Journey</h3>
+
+| Track | Focus Area | Key Technologies | Status |
+| :--- | :--- | :--- | :--- |
+| **AI / Machine Learning** | Predictive Modeling, Classification, NLP | Python, Scikit-learn, Pandas | 🚀 Active |
+| **Data Analytics** | EDA, Feature Engineering, Visualizations | SQL, NumPy, Matplotlib, Seaborn | 📊 Continuous |
+| **Open Source** | Modular Python Tools & Scripts | Git, GitHub Actions, Markdown | 🌐 Ongoing |
+
+<br />
+
+<h3>📊 GitHub Metrics & Insights</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charan-Code600&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_color=00ff88&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charan-Code600&theme=dark&background=0d1117&border=00ff88&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=00ff88&sideNums=ffffff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan-Code600&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_color=00ff88&layout=compact" width="48%" />
+</p>
+
+<br />
+
+<h3>🏆 Achievements & Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Charan-Code600&theme=flat&column=6&margin-w=15&background=0d1117" alt="Trophies" />
+</p>
+
+<br />
+
+<h3>🐍 Contribution Eating Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charan-Code600/Charan-Code600/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charan-Code600/Charan-Code600/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Charan-Code600/Charan-Code600/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&color=00ff88 font_color=ffffff" alt="Daily Quote" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00ff88,100:0d1117&height=120&section=footer" width="100%" />
+</p>
+
+
+
+
+
+
