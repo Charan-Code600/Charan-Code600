@@ -142,29 +142,6 @@
 </p>
 
 
-<br>
-
-<div align="center" style="background: linear-gradient(90deg, #6a3093, #a044ff); padding: 15px; border-radius: 8px;">
-  <h1>💼 WORK EXPERIENCE</h1>
-</div>
-
-<br>
-
-<table align="center" width="90%">
-  <tr>
-    <td>
-      <h3>🚀 AI/ML Developer (Self-Taught) | Self Employed</h3>
-      <p><b>📅 August 2026 - Present</b></p>
-      <p>
-        Self-taught AI/ML Developer, learning Python, data analysis (NumPy, Pandas), 
-        and data visualization. Building real projects and publishing them on GitHub 
-        as part of my portfolio.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 
 
