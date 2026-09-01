@@ -10,6 +10,9 @@
 </p>
 
 
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
+
+
 <!-- ==================== MEDIUM-LARGE PROFESSIONAL TYPING ==================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
