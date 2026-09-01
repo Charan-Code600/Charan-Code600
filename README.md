@@ -355,27 +355,21 @@
 
 
 
-<!-- ==================== WORK EXPERIENCE SECTION ==================== -->
+
+
+<!-- ==================== STYLISH CYBERPUNK WORK EXPERIENCE BANNER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:161b22,100:090d16&height=80&section=header&text=💼%20WORK%20EXPERIENCE&fontSize=32&fontColor=00FF88&stroke=A855F7&strokeWidth=2&fontAlignY=55" width="100%" />
+</p>
+
+<!-- EXPERIENCE CARD -->
 <table border="0" align="center" width="100%">
   <tr>
-    <td align="center" bgcolor="#0d1117" style="border: 2px solid #A855F7; border-radius: 12px; padding: 12px;">
-      <font size="5" color="#00FF88" face="Fira Code, monospace">
-        <b>💼 WORK EXPERIENCE</b>
-      </font>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- OPPORTUNITIES CARD -->
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="center" bgcolor="#161b22" style="border: 1px solid #00F0FF; border-radius: 10px; padding: 15px;">
+    <td align="center" bgcolor="#0d1117" style="border: 1px solid #00F0FF; border-radius: 10px; padding: 18px;">
       <font color="#00F0FF" face="Fira Code, monospace" size="3">
         <b>🚀 Open to AI/ML & Data Science Opportunities (Internships & Projects)</b>
       </font>
-      <br />
+      <br /><br />
       <font color="#8b949e" face="Fira Code, monospace" size="2">
         Actively building real-world machine learning models and data-driven solutions.
       </font>
@@ -385,17 +379,10 @@
 
 <br /><br />
 
-<!-- ==================== TECH STACK SECTION BANNER (100% STABLE) ==================== -->
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="center" bgcolor="#0d1117" style="border: 2px solid #00F0FF; border-radius: 12px; padding: 12px;">
-      <font size="5" color="#00FF88" face="Fira Code, monospace">
-        <b>⚡ TECH STACK & ECOSYSTEM</b>
-      </font>
-    </td>
-  </tr>
-</table>
-
+<!-- ==================== STYLISH CYBERPUNK TECH STACK BANNER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:161b22,100:090d16&height=80&section=header&text=⚡%20TECH%20STACK%20%26%20ECOSYSTEM&fontSize=32&fontColor=00FF88&stroke=00F0FF&strokeWidth=2&fontAlignY=55" width="100%" />
+</p>
 <p align="center">
   <sub><font color="#8b949e" face="Fira Code">Tools, Technologies & Neural Frameworks I Work With</font></sub>
 </p>
