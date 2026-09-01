@@ -214,3 +214,64 @@
 
 
 
+
+
+
+<!-- ============================================ -->
+<!--   🐍 PREMIUM SNAKE ANIMATION SECTION        -->
+<!-- ============================================ -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
+
+<!-- SNAKE HEADER WITH GLOW -->
+<p align="center">
+  <span style="font-size: 28px; font-weight: 800; background: linear-gradient(135deg, #00FF88, #00CCFF, #AA66FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 2px;">
+    ⚡ CONTRIBUTION SNAKE
+  </span>
+  <br />
+  <span style="color: #888; font-size: 14px; letter-spacing: 4px; text-transform: uppercase;">
+    Watch my contributions get devoured 🐍
+  </span>
+</p>
+
+<br />
+
+<!-- SNAKE ANIMATION WITH GLOW & BORDER -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
+         alt="Snake Animation" 
+         width="100%"
+         style="max-width: 800px; 
+                border-radius: 30px; 
+                box-shadow: 0 0 60px rgba(0, 255, 136, 0.08), 
+                            0 0 120px rgba(0, 255, 136, 0.04),
+                            inset 0 0 60px rgba(0, 255, 136, 0.02);
+                border: 1px solid rgba(255, 255, 255, 0.03);
+                transition: all 0.4s ease;" 
+         onmouseover="this.style.boxShadow='0 0 80px rgba(0,255,136,0.2), 0 0 160px rgba(0,255,136,0.08)'"
+         onmouseout="this.style.boxShadow='0 0 60px rgba(0,255,136,0.08), 0 0 120px rgba(0,255,136,0.04)'" />
+  </picture>
+</p>
+
+<!-- SNAKE STATS BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍_Active-Yes-00FF88?style=for-the-badge&logo=snake&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📊_Contributions-Eaten-00CCFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/⚡_Auto_Update-Daily-AA66FF?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0D1117" />
+</p>
+
+<!-- SNAKE FOOTER QUOTE -->
+<p align="center">
+  <span style="color: #555; font-size: 13px; font-style: italic; letter-spacing: 1px;">
+    “Every contribution matters — even if it gets eaten! 🍎”
+  </span>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
