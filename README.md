@@ -252,7 +252,10 @@
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=%F0%9F%8F%86+GITHUB+TROPHIES;%E2%AD%90+ACHIEVEMENTS+%26+MILESTONES" alt="GitHub Trophies" />
+  <br/>
+  <h2>🏆 GITHUB TROPHIES & MILESTONES</h2>
+  <p><i>Recognitions, Badges & Activity Milestones</i></p>
+  <hr width="80%" style="border: 1px solid #30363d;" />
 </div>
 
 <p align="center">
