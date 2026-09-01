@@ -62,9 +62,9 @@
 
 
 
-<!-- ==================== NEW DISTINCT CYBERPUNK ABOUT ME BANNER ==================== -->
+<!-- ==================== OPTIMIZED SEAMLESS ABOUT ME BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:1f0933,100:090d16&height=100&section=header&text=🚀%20ABOUT%20ME&fontSize=34&fontColor=00FF88&stroke=A855F7&strokeWidth=2&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=70&section=header&text=🚀%20ABOUT%20ME&fontSize=30&fontColor=00FF88&stroke=A855F7&strokeWidth=2&fontAlignY=50" width="100%" />
 </p>
 
 
