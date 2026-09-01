@@ -24,22 +24,35 @@
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
 
 
-<!-- ==================== SOCIAL BADGES WITH GLOW EFFECT ==================== -->
+<!-- ==================== HIGH-END CYBERPUNK TERMINAL SOCIAL CONNECT ==================== -->
 
-
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Charan-Code600" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-</p>
+<table border="0" align="center">
+  <tr>
+    <!-- LINKEDIN -->
+    <td align="center" style="background-color: #0d1117; border: 1px solid #0077B5; border-radius: 8px; padding: 10px 18px;">
+      <a href="https://linkedin.com" target="_blank" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="18" height="18" valign="middle" />
+        <font color="#0077B5" face="Fira Code, monospace" size="3"><b> &nbsp;LinkedIn</b></font>
+      </a>
+    </td>
+    <td>&nbsp;&nbsp;</td>
+    <!-- GMAIL -->
+    <td align="center" style="background-color: #0d1117; border: 1px solid #EA4335; border-radius: 8px; padding: 10px 18px;">
+      <a href="mailto:your-email@gmail.com" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="18" height="18" valign="middle" />
+        <font color="#EA4335" face="Fira Code, monospace" size="3"><b> &nbsp;Gmail</b></font>
+      </a>
+    </td>
+    <td>&nbsp;&nbsp;</td>
+    <!-- GITHUB -->
+    <td align="center" style="background-color: #0d1117; border: 1px solid #00FF88; border-radius: 8px; padding: 10px 18px;">
+      <a href="https://github.com/Charan-Code600" target="_blank" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="18" height="18" valign="middle" />
+        <font color="#00FF88" face="Fira Code, monospace" size="3"><b> &nbsp;GitHub</b></font>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
