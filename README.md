@@ -251,7 +251,9 @@
 
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
-### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=%F0%9F%8F%86+GITHUB+TROPHIES;%E2%AD%90+ACHIEVEMENTS+%26+MILESTONES" alt="GitHub Trophies" />
+</div>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Charan-Code600&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
