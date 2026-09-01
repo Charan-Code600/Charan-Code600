@@ -10,12 +10,11 @@
 </p>
 
 
-<!-- ==================== TYPING ANIMATION ==================== -->
-<!-- ==================== RUNNING TEXT ==================== -->
+<!-- ==================== SINGLE TYPING ANIMATION WITH MULTI-COLOR ==================== -->
 
-<marquee behavior="scroll" direction="left" scrollamount="10" style="font-size:30px; font-weight:bold; color:#00FF88;">
-  🚀 Welcome to My GitHub Profile!  |  ✨ I'm Charan Aade  |  🔥 Self-Taught AI/ML Developer  |  💡 Building the Future with AI  |  🇮🇳 From India
-</marquee>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1500&color=00FF88&center=true&vCenter=true&width=900&height=120&lines=🌊+Welcome+to+My+GitHub+Profile!;✨+I'm+Charan+Aade+%F0%9F%91%8B;🚀+Self-Taught+AI%2FML+Developer;🔥+Python+%26+Data+Analysis+Enthusiast;💡+Building+the+Future+with+AI;🇮🇳+From+India" alt="Typing Animation" />
+</h1>
 
 <!-- ==================== SOCIAL BADGES WITH GLOW EFFECT ==================== -->
 
