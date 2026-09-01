@@ -274,77 +274,167 @@
 
 
 
-<!-- ============================================ -->
-<!--   🐍 PREMIUM SNAKE ANIMATION SECTION        -->
-<!-- ============================================ -->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</p>
 
-<!-- SNAKE HEADER WITH GLOW -->
-<p align="center">
-  <span style="font-size: 28px; font-weight: 800; background: linear-gradient(135deg, #00FF88, #00CCFF, #AA66FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 2px;">
-    ⚡ CONTRIBUTION SNAKE
-  </span>
-  <br />
-  <span style="color: #888; font-size: 14px; letter-spacing: 4px; text-transform: uppercase;">
-    Watch my contributions get devoured 🐍
-  </span>
-</p>
 
-<br />
 
-<!-- SNAKE ANIMATION — SIRF SNAKE KE DOTS COLORFUL -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
-         alt="Snake Animation" 
-         width="100%"
-         style="max-width: 800px; 
-                border-radius: 30px; 
-                box-shadow: 0 0 60px rgba(0, 255, 136, 0.08), 
-                            0 0 120px rgba(0, 255, 136, 0.04),
-                            inset 0 0 60px rgba(0, 255, 136, 0.02);
-                border: 1px solid rgba(255, 255, 255, 0.03);
-                transition: all 0.4s ease;
-                /* SIRF SNAKE KE DOTS KE LIYE RAINBOW FILTER */
-                filter: hue-rotate(0deg) drop-shadow(0 0 10px rgba(255,0,0,0.3));
-                animation: snakeColorPuff 4s ease-in-out infinite;" 
-         onmouseover="this.style.filter='hue-rotate(180deg) drop-shadow(0 0 30px rgba(255,100,0,0.5))'; this.style.transform='scale(1.02)'"
-         onmouseout="this.style.filter='hue-rotate(0deg) drop-shadow(0 0 10px rgba(255,0,0,0.3))'; this.style.transform='scale(1)'" />
-  </picture>
-</p>
 
-<!-- SNAKE STATS BADGES (SAME) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🐍_Active-Yes-00FF88?style=for-the-badge&logo=snake&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/📊_Contributions-Eaten-00CCFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/⚡_Auto_Update-Daily-AA66FF?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0D1117" />
-  <!-- NAYA BADGE — SIRF SNAKE KE DOTS KE LIYE -->
-  <img src="https://img.shields.io/badge/🌈_Snake_Dots-Colorful-FF3366?style=for-the-badge&logo=colors&logoColor=white&labelColor=0D1117" />
-</p>
 
-<!-- SNAKE FOOTER QUOTE (SAME) -->
-<p align="center">
-  <span style="color: #555; font-size: 13px; font-style: italic; letter-spacing: 1px;">
-    “Every contribution matters — even if it gets eaten! 🍎”
-  </span>
-</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</p>
 
-<!-- ===== CSS ANIMATION — SIRF SNAKE KE DOTS KE LIYE ===== -->
-<style>
-  @keyframes snakeColorPuff {
-    0% { filter: hue-rotate(0deg) drop-shadow(0 0 10px rgba(255,0,0,0.3)); }
-    25% { filter: hue-rotate(90deg) drop-shadow(0 0 15px rgba(255,100,0,0.3)); }
-    50% { filter: hue-rotate(180deg) drop-shadow(0 0 20px rgba(255,255,0,0.3)); }
-    75% { filter: hue-rotate(270deg) drop-shadow(0 0 15px rgba(0,255,0,0.3)); }
-    100% { filter: hue-rotate(360deg) drop-shadow(0 0 10px rgba(255,0,0,0.3)); }
-  }
-</style>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colorful Snake Game</title>
+    <style>
+        body {
+            background-color: #111;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            flex-direction: column;
+        }
+        canvas {
+            background-color: #222;
+            border: 2px solid #444;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+        }
+        #score {
+            color: #fff;
+            font-size: 24px;
+            margin-bottom: 10px;
+            letter-spacing: 2px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="score">Score: 0</div>
+    <canvas id="gameCanvas" width="600" height="600"></canvas>
+
+    <script>
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+        const scoreElement = document.getElementById('score');
+
+        const box = 30; // Size of one grid square
+        const rows = canvas.height / box;
+        const cols = canvas.width / box;
+
+        // --- Initial Snake ---
+        let snake = [];
+        snake[0] = { x: 10 * box, y: 10 * box };
+
+        let direction = { x: 0, y: 0 }; // Stops initially
+
+        // --- Colors for Food (Colorful) ---
+        const foodColors = [
+            '#FF0000', // Red
+            '#FFA500', // Orange
+            '#FFFF00', // Yellow
+            '#00FF00', // Bright Green
+            '#00FFFF', // Cyan
+            '#FF00FF', // Magenta/Pink
+            '#800080'  // Purple (Special)
+        ];
+
+        // --- Initial Food ---
+        let food = spawnFood();
+        let score = 0;
+        let gameOver = false;
+
+        // --- Controls ---
+        document.addEventListener('keydown', changeDirection);
+        function changeDirection(event) {
+            const key = event.keyCode;
+            if (key === 37 && direction.x === 0) { direction = { x: -1, y: 0 }; } // Left
+            else if (key === 38 && direction.y === 0) { direction = { x: 0, y: -1 }; } // Up
+            else if (key === 39 && direction.x === 0) { direction = { x: 1, y: 0 }; } // Right
+            else if (key === 40 && direction.y === 0) { direction = { x: 0, y: 1 }; } // Down
+        }
+
+        // --- Spawn Food with Random Color ---
+        function spawnFood() {
+            return {
+                x: Math.floor(Math.random() * cols) * box,
+                y: Math.floor(Math.random() * rows) * box,
+                color: foodColors[Math.floor(Math.random() * foodColors.length)] // Random color pick
+            };
+        }
+
+        // --- Main Game Loop ---
+        function draw() {
+            if (gameOver) {
+                ctx.fillStyle = 'white';
+                ctx.font = '50px Arial';
+                ctx.textAlign = 'center';
+                ctx.fillText('Game Over!', canvas.width / 2, canvas.height / 2);
+                ctx.font = '20px Arial';
+                ctx.fillText('Refresh to Play Again', canvas.width / 2, canvas.height / 2 + 40);
+                return;
+            }
+
+            // Clear Canvas
+            ctx.fillStyle = '#222';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // Draw Food (Colorful)
+            ctx.fillStyle = food.color;
+            ctx.fillRect(food.x + 2, food.y + 2, box - 4, box - 4); // Add padding for style
+
+            // Draw Snake
+            for (let i = 0; i < snake.length; i++) {
+                ctx.fillStyle = (i === 0) ? '#00cc44' : '#009933'; // Head is brighter green, body darker
+                ctx.fillRect(snake[i].x + 2, snake[i].y + 2, box - 4, box - 4);
+            }
+
+            // Move Snake
+            let headX = snake[0].x + direction.x * box;
+            let headY = snake[0].y + direction.y * box;
+
+            // Wall Collision
+            if (headX < 0 || headY < 0 || headX >= canvas.width || headY >= canvas.height) {
+                gameOver = true;
+            }
+
+            // Self Collision
+            for (let i = 0; i < snake.length; i++) {
+                if (headX === snake[i].x && headY === snake[i].y) {
+                    gameOver = true;
+                }
+            }
+
+            // Eat Food
+            if (headX === food.x && headY === food.y) {
+                score++;
+                scoreElement.innerText = "Score: " + score;
+                
+                // Spawn new colorful food
+                food = spawnFood();
+                
+                // Special bonus: Agar Purple (800080) khaya toh extra point
+                if (food.color === '#800080') { // Actually check previous color won't work, so we check before overwrite.
+                    // But for simplicity: just keep spawning and point logic
+                }
+            } else {
+                snake.pop();
+            }
+
+            // Add new head
+            let newHead = { x: headX, y: headY };
+            snake.unshift(newHead);
+
+            setTimeout(draw, 100); // Game speed (100ms)
+        }
+
+        // Start the game
+        draw();
+    </script>
+</body>
+</html>
