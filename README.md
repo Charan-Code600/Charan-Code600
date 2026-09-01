@@ -177,11 +177,26 @@
 
 ### 🐍 Contribution Snake
 
+<!-- ==================== SNAKE ANIMATION ==================== -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+</p>
+
+<h3 align="center" style="color: #00FF88;">
+  🐍 My Contributions are being Eaten by a Snake!
+</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0,255,136,0.1);" />
 </picture>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+</p>
+
 
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
