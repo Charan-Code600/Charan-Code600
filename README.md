@@ -36,68 +36,70 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" />
 </p>
 
-<!-- ==================== PROFESSIONAL ABOUT ME ==================== -->
+<!-- ==================== COLORFUL ABOUT ME ==================== -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=60&lines=🚀+About+Me;Self-Taught+AI%2FML+Developer;Python+%26+Data+Analysis+Enthusiast" alt="Typing Animation" />
+  <span style="background: linear-gradient(135deg, #00FF88, #00BFFF); padding: 10px 30px; border-radius: 50px; color: #000; font-size: 32px; font-weight: bold;">
+    🚀 About Me
+  </span>
 </h2>
 
 <br />
 
-<table align="center" border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; background: linear-gradient(135deg, #0f0f0f, #1a1a1a); border-radius: 20px; padding: 20px;">
-  
-  <!-- Row 1: Current Focus + Learning -->
-  <tr>
-    <td align="center" width="50%" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #00FF88;">
-      <strong style="color: #00FF88; font-size: 20px;">🔭 Current Focus</strong><br />
-      <span style="color: #ffffff;">Building Phase 3 Portfolio – Python & Data Analysis Projects</span>
-    </td>
-    <td align="center" width="50%" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FF5733;">
-      <strong style="color: #FF5733; font-size: 20px;">🌱 Learning</strong><br />
-      <span style="color: #ffffff;">Machine Learning, Pandas, NumPy, Data Visualization</span>
-    </td>
-  </tr>
-
-  <!-- Row 2: Collaboration + Seeking Help -->
-  <tr>
-    <td align="center" width="50%" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #00BFFF;">
-      <strong style="color: #00BFFF; font-size: 20px;">👯 Collaboration</strong><br />
-      <span style="color: #ffffff;">Open-source Python & Data Science Projects</span>
-    </td>
-    <td align="center" width="50%" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FFA500;">
-      <strong style="color: #FFA500; font-size: 20px;">🤝 Seeking Help</strong><br />
-      <span style="color: #ffffff;">Real-world Project Ideas & Code Feedback</span>
-    </td>
-  </tr>
-
-  <!-- Row 3: Ask Me + Reach Me -->
-  <tr>
-    <td align="center" width="50%" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FF69B4;">
-      <strong style="color: #FF69B4; font-size: 20px;">💬 Ask Me</strong><br />
-      <span style="color: #ffffff;">Python, Data Analysis, Self-Taught Journey</span>
-    </td>
-    <td align="center" width="50%" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FFD700;">
-      <strong style="color: #FFD700; font-size: 20px;">📫 Reach Me</strong><br />
-      <a href="mailto:charanade66@gmail.com" style="color: #FFD700; text-decoration: none; font-weight: bold;">charanade66@gmail.com</a>
-    </td>
-  </tr>
-
-  <!-- Row 4: Fun Fact (Full Width) -->
-  <tr>
-    <td colspan="2" align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #8A2BE2;">
-      <strong style="color: #8A2BE2; font-size: 20px;">⚡ Fun Fact</strong><br />
-      <span style="color: #ffffff;">Building AI/ML Skills – One Project at a Time! 🚀</span>
-    </td>
-  </tr>
-
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Self--Taught_AI/ML_Developer-00FF88?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python_&_Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building_Phase_3_Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 <br />
 
-<!-- Footer Message -->
+<p align="center">
+  <table border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; background: #0d0d0d; border-radius: 20px; padding: 20px;">
+    <tr>
+      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #00FF88;">
+        <strong style="color: #00FF88; font-size: 22px;">🔭 Current Focus</strong><br />
+        <span style="color: #ffffff; font-size: 16px;">Building Phase 3 Portfolio – Python & Data Analysis Projects</span>
+      </td>
+      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FF5733;">
+        <strong style="color: #FF5733; font-size: 22px;">🌱 Learning</strong><br />
+        <span style="color: #ffffff; font-size: 16px;">Machine Learning, Pandas, NumPy, Data Visualization</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #00BFFF;">
+        <strong style="color: #00BFFF; font-size: 22px;">👯 Collaboration</strong><br />
+        <span style="color: #ffffff; font-size: 16px;">Open-source Python & Data Science Projects</span>
+      </td>
+      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FFA500;">
+        <strong style="color: #FFA500; font-size: 22px;">🤝 Seeking Help</strong><br />
+        <span style="color: #ffffff; font-size: 16px;">Real-world Project Ideas & Code Feedback</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FF69B4;">
+        <strong style="color: #FF69B4; font-size: 22px;">💬 Ask Me</strong><br />
+        <span style="color: #ffffff; font-size: 16px;">Python, Data Analysis, Self-Taught Journey</span>
+      </td>
+      <td align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #FFD700;">
+        <strong style="color: #FFD700; font-size: 22px;">📫 Reach Me</strong><br />
+        <a href="mailto:charanade66@gmail.com" style="color: #FFD700; text-decoration: none; font-weight: bold; font-size: 16px;">charanade66@gmail.com</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="background: #1e1e2f; border-radius: 15px; padding: 20px; border-left: 5px solid #8A2BE2;">
+        <strong style="color: #8A2BE2; font-size: 22px;">⚡ Fun Fact</strong><br />
+        <span style="color: #ffffff; font-size: 16px;">Building AI/ML Skills – One Project at a Time! 🚀</span>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br />
+
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" />
-  <strong style="color: #00FF88; font-size: 18px;">Let's Connect and Build Something Amazing!</strong>
+  <strong style="color: #00FF88; font-size: 20px;">Let's Connect and Build Something Amazing!</strong>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" />
 </p>
 
