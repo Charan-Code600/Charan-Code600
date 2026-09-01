@@ -13,9 +13,14 @@
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
 
 
-<!-- ==================== PROFESSIONAL CYBERPUNK TYPING SVG ==================== -->
+<!-- ==================== 100% GUARANTEED VISIBLE TICKER ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=60&lines=⚡+Welcome+to+My+Portfolio;✨+I'm+Charan+Aade;🚀+Self-Taught+AI%2FML+Developer;🐍+Specializing+in+Python+%26+Data+Analysis;🤝+Open+to+Collaborations+%7C+🇮🇳+India" alt="Typing Animation" />
+  <img src="https://img.shields.io/badge/⚡%20Portfolio-Welcome%20to%20My%20Space-00F0FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/✨%20Identity-Charan%20Aade-00FF88?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🚀%20Role-AI%2FML%20Developer-A855F7?style=for-the-badge&labelColor=0d1117" />
+  <br />
+  <img src="https://img.shields.io/badge/🐍%20Focus-Python%20%26%20Data%20Analysis-FFB800?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🤝%20Connect-Open%20to%20Collaborations-FF007F?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 
