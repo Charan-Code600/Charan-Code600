@@ -452,8 +452,15 @@
 
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/jYprB6BFXgSo8/giphy.gif" width="100%" height="150" />
+</p>
+
+
+
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="150" />
+  <img src="https://raw.githubusercontent.com/Charan-Code600/Charan-Code600/main/fire.gif" width="100%" height="150" />
 </p>
+
