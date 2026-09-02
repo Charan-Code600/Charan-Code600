@@ -452,7 +452,4 @@
 
 
 
-<p align="center">
-  <img src="assets/fire-banner.gif" width="100%" alt="Fire Banner">
-</p>
 
