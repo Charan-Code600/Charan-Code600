@@ -11,6 +11,9 @@
 
 
 
+
+<!-- ==================== GLOWING DIVIDER ==================== -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
@@ -22,6 +25,9 @@
 </p>
 
 
+
+
+<!-- ==================== GLOWING DIVIDER ==================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
@@ -53,6 +59,7 @@
 
 
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
@@ -131,6 +138,7 @@
 
 
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
@@ -167,6 +175,9 @@
 
 <br />
 
+
+
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
@@ -353,16 +364,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <!-- ==================== PROFILE INSIGHTS (FOOTER) ==================== -->
 <br />
 <p align="center">
@@ -393,11 +394,13 @@
 
 <br />
 
+
+
+<!-- ==================== GLOWING DIVIDER ==================== -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,50:8B6914,100:000000&height=80&section=footer" width="100%" />
 </p>
-
-
 
 
 
@@ -415,16 +418,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFB800,100:000000&height=3&width=1200" width="100%" />
 </p>
-
-
-
-
-
-
-
-
-
-
 
 
 
