@@ -454,26 +454,6 @@
 
 
 
-
-
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="120" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="150" />
 </p>
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/other-cool-gifs/fire.gif" width="100%" height="100" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,25:FF8C00,50:FFD700,75:FF8C00,100:FF4500&height=100&width=1200" width="100%" />
-</p>
-
