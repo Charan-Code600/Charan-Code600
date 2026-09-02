@@ -359,3 +359,26 @@
 
 
 
+
+
+
+
+
+
+
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=header&text=Rainbow%20Contribution%20Snake&fontSize=26&fontColor=FFB800&fontAlignY=65" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Charan-Code600/Charan-Code600/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍%20Rainbow%20Mode-Active-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/✨%20Every%20Dot-Colorful-FFB800?style=for-the-badge&labelColor=000000" />
+</p>
+
+<br />
