@@ -10,6 +10,14 @@
 </p>
 
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
+
+
+
+
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent 0%, #00FF88 50%, transparent 100%); margin: 30px 0;" />
 
 <!-- ==================== PROFESSIONAL CYBERPUNK TYPING ANIMATION ==================== -->
