@@ -397,7 +397,7 @@
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,50:8B6914,100:000000&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,50:8B6914,100:000000&height=60&section=footer" width="200%" />
 </p>
 
 
@@ -460,16 +460,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFB800,100:000000&height=3&width=1200" width="100%" />
 </p>
 
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:000000&height=15&width=1200" width="100%" />
-</p>
 
 
 
