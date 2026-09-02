@@ -467,3 +467,89 @@
 </p>
 
 <br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==================== SOCIAL CONNECT (PREMIUM V2) ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=90&section=header&text=Let's%20Connect&fontSize=28&fontColor=FFFFFF&fontAlignY=65" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/charanaade">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:charanade66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Charan-Code600">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=90&section=header&text=Let's%20Connect&fontSize=28&fontColor=FFFFFF&fontAlignY=65" width="100%" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0979,100:FF6A00&height=90&section=header&text=Let's%20Connect&fontSize=28&fontColor=FFFFFF&fontAlignY=65" width="100%" />
+
+
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:283048,100:859398&height=90&section=header&text=Let's%20Connect&fontSize=28&fontColor=FFFFFF&fontAlignY=65" width="100%" />
+
+
+
