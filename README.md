@@ -326,7 +326,9 @@
 </p>
 
 <p align="center">
-  <sub>✨ Every dot in my contribution graph puffs with color ✨</sub>
+  <b style="font-size:18px; color:#FFB800; letter-spacing:1px;">
+    ✨ Every dot in my contribution graph puffs with color ✨
+  </b>
 </p>
 
 <br />
@@ -391,11 +393,15 @@
 <br />
 
 <p align="center">
-  <sub><i>✨ Thanks for stopping by — every visit means a lot! ✨</i></sub>
+  <b style="font-size:18px; color:#FFB800;">
+    ✨ Thanks for stopping by — every visit means a lot! ✨
+  </b>
 </p>
 
 <p align="center">
-  <sub>⭐ If you like what you see, consider following for more updates ⭐</sub>
+  <b style="font-size:18px; color:#FFB800;">
+    ⭐ If you like what you see, consider following for more updates ⭐
+  </b>
 </p>
 
 <br />
@@ -403,47 +409,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,50:8B6914,100:000000&height=80&section=footer" width="100%" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -477,20 +442,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <b style="font-size:18px; color:#FFB800; letter-spacing:1px;">
-    ✨ Every dot in my contribution graph puffs with color ✨
-  </b>
-</p>
