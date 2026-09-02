@@ -454,3 +454,6 @@
 
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:D4AF37&height=200&section=header&text=Charan%20Aade&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Python%20%26%20Data%20Analysis&descAlignY=58&descSize=20&descColor=E0E0E0&animation=fadeIn" width="100%" />
+</p>
