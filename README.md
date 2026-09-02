@@ -31,9 +31,7 @@
 
 <!-- ==================== SOCIAL CONNECT ==================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:D4AF37&height=200&section=header&text=Charan%20Aade&fontSize=75&fontColor=FFD700&fontAlignY=45&animation=fadeIn" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0979,100:FF6A00&height=90&section=header&text=Let's%20Connect&fontSize=28&fontColor=FFFFFF&fontAlignY=65" width="100%" />
 
 
 
@@ -516,42 +514,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=90&section=header&text=Let's%20Connect&fontSize=28&fontColor=FFFFFF&fontAlignY=65" width="100%" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0979,100:FF6A00&height=90&section=header&text=Let's%20Connect&fontSize=28&fontColor=FFFFFF&fontAlignY=65" width="100%" />
-
-
-
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:283048,100:859398&height=90&section=header&text=Let's%20Connect&fontSize=28&fontColor=FFFFFF&fontAlignY=65" width="100%" />
 
 
 
