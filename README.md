@@ -397,7 +397,7 @@
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,50:8B6914,100:000000&height=60&section=footer" width="200%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,50:8B6914,100:000000&height=80&section=footer" width="100%" />
 </p>
 
 
