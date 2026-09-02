@@ -453,14 +453,6 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jYprB6BFXgSo8/giphy.gif" width="100%" height="150" />
-</p>
-
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Charan-Code600/Charan-Code600/main/fire.gif" width="100%" height="150" />
+  <img src="assets/fire-banner.gif" width="100%" alt="Fire Banner">
 </p>
 
