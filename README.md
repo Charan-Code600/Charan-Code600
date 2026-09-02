@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 
 
