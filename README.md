@@ -1,8 +1,19 @@
 
+<!-- ==================== PROFILE VIEWS ==================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB800&height=90&section=header&text=Profile%20Insights&fontSize=26&fontColor=FFFFFF&fontAlignY=65" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Charan-Code600?label=FOLLOWERS&style=for-the-badge&color=FFB800&labelColor=000000" />
+</p>
+
+<p align="center">
+  <sub>✨ Thanks for stopping by — every visit means a lot! ✨</sub>
+</p>
+
+<br />
 
 
 <!-- ==================== ANIMATED BANNER ==================== -->
