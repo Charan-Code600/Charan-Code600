@@ -422,11 +422,6 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFB800,100:000000&height=3&width=1200" width="100%" />
-
-<p align="center">✨ ────────────────────── ✨</p>
-
-<img src="https://img.shields.io/badge/-‎-FFB800?style=flat-square" width="100%" height="3" />
 
 
 
