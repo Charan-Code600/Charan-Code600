@@ -327,3 +327,39 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+<!-- ==================== WORK EXPERIENCE BANNER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=header&text=Work%20Experience&fontSize=32&fontColor=FFB800&fontAlignY=65" width="100%" />
+</p>
+
+<!-- ==================== EXPERIENCE CARD ==================== -->
+<table width="100%" cellpadding="0" cellspacing="0" style="border: 1px solid #FFB800; border-radius: 12px;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/ROLE-AI%2FML%20Developer-FFB800?style=for-the-badge&labelColor=000000&logo=python&logoColor=FFB800" />
+      <br /><br />
+      <b>Self-Taught & Self-Employed</b>
+      <br />
+      <sub>Mastering Python, Data Analysis (NumPy, Pandas), and Data Visualization.</sub>
+    </td>
+    <td width="50%" valign="top" style="padding: 20px; border-left: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/DURATION-Aug%202026%20to%20Present-FFB800?style=for-the-badge&labelColor=000000&logo=googlecalendar&logoColor=FFB800" />
+      <br /><br />
+      <b>Building Portfolio & Freelancing</b>
+      <br />
+      <sub>Publishing real-world projects on GitHub to deliver value to clients.</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
