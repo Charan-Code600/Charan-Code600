@@ -1,19 +1,6 @@
 
-<!-- ==================== PROFILE VIEWS ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB800&height=90&section=header&text=Profile%20Insights&fontSize=26&fontColor=FFFFFF&fontAlignY=65" width="100%" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Charan-Code600?label=FOLLOWERS&style=for-the-badge&color=FFB800&labelColor=000000" />
-</p>
 
-<p align="center">
-  <sub>✨ Thanks for stopping by — every visit means a lot! ✨</sub>
-</p>
-
-<br />
 
 
 <!-- ==================== ANIMATED BANNER ==================== -->
@@ -350,3 +337,32 @@
 
 
 
+<!-- ==================== PROFILE INSIGHTS (FOOTER) ==================== -->
+<br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B6914,100:FFB800&height=110&section=header&text=Profile%20Insights&fontSize=32&fontColor=FFFFFF&fontAlignY=60&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" height="35" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Charan-Code600?label=FOLLOWERS&style=for-the-badge&color=FFB800&labelColor=0d1117" height="35" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REPOSITORIES-21-FFB800?style=for-the-badge&labelColor=0d1117" height="35" />
+</p>
+
+<br />
+
+<p align="center">
+  <sub><i>✨ Thanks for stopping by — every visit means a lot! ✨</i></sub>
+</p>
+
+<p align="center">
+  <sub>⭐ If you like what you see, consider following for more updates ⭐</sub>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,50:8B6914,100:000000&height=60&section=footer" width="100%" />
+</p>
