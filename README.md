@@ -535,3 +535,82 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:1a1a2e&height=200&section=header&text=Charan%20Aade&fontSize=60&fontColor=FFFFFF" width="100%" />
+</p>
+
+<!-- DIVIDER 1 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFB800,100:000000&height=3&width=1200" width="100%" />
+</p>
+
+<!-- OPEN TO COLLABORATIONS LINE -->
+<p align="center">
+  💛 <b>Open to Collaborations</b> | <a href="https://linkedin.com/in/charanaade">LinkedIn</a>
+</p>
+
+<!-- DIVIDER 2 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFB800,100:000000&height=3&width=1200" width="100%" />
+</p>
+
+<!-- SOCIAL CONNECT -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB800&height=90&section=header&text=Social%20Connect&fontSize=26&fontColor=FFFFFF&fontAlignY=65" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/charanaade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:charanade66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Charan-Code600"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<!-- DIVIDER 3 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFB800,100:000000&height=3&width=1200" width="100%" />
+</p>
+
+<!-- ABOUT ME -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=70&section=header&text=🚀%20ABOUT%20ME&fontSize=30&fontColor=FFB800&fontAlignY=50" width="100%" />
+</p>
