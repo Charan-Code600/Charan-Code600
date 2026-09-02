@@ -283,14 +283,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=header&text=GitHub%20Trophies&fontSize=36&fontColor=FFFFFF&fontAlignY=55" width="100%" />
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Charan-Code600&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
-</p>
+
 
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
+
+
+<!-- ==================== GLOWING DIVIDER ==================== -->
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Charan-Code600&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
 </p>
 
 
