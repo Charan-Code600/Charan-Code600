@@ -244,11 +244,15 @@
   </tr>
 </table>
 
+
+
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
+
+
 
 <!-- ==================== GITHUB STATS WITH 3D EFFECT ==================== -->
 
@@ -265,11 +269,15 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Charan-Code600&theme=radical&hide_border=false&layout=compact&bg_color=0D1117&title_color=00FF88" alt="Top Languages" width="48%" />
 </p>
 
+
+
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
+
+
 
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
@@ -282,8 +290,10 @@
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-1396aedaec5c.gif" alt="Glowing Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
+
+
 
 
 
