@@ -376,7 +376,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" height="50" />
+  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" height="100" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Charan-Code600?label=FOLLOWERS&style=for-the-badge&color=FFB800&labelColor=0d1117" height="35" />
   &nbsp;&nbsp;
