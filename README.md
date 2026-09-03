@@ -18,6 +18,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Response_Time-Within_24_Hours-FFB800?style=for-the-badge&labelColor=000000" height="45" />
+</p>
+
+
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
 <p align="center">
