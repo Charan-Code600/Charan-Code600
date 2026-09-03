@@ -376,11 +376,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" height="250" />
+  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" height="500" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Charan-Code600?label=FOLLOWERS&style=for-the-badge&color=FFB800&labelColor=0d1117" height="350" />
+  <img src="https://img.shields.io/github/followers/Charan-Code600?label=FOLLOWERS&style=for-the-badge&color=FFB800&labelColor=0d1117" height="500" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/REPOSITORIES-21-FFB800?style=for-the-badge&labelColor=0d1117" height="350" />
+  <img src="https://img.shields.io/badge/REPOSITORIES-21-FFB800?style=for-the-badge&labelColor=0d1117" height="500" />
 </p>
 
 <br />
