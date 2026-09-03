@@ -329,7 +329,7 @@
 </p>
 
 <p align="center">
-  <b style="font-size:18px; color:#FFB800; letter-spacing:1px;">
+  <b style="font-size:30px; color:#FFB800; letter-spacing:1px;">
     ✨ Every dot in my contribution graph puffs with color ✨
   </b>
 </p>
@@ -386,13 +386,13 @@
 <br />
 
 <p align="center">
-  <b style="font-size:18px; color:#FFB800;">
+  <b style="font-size:30px; color:#FFB800;">
     ✨ Thanks for stopping by — every visit means a lot! ✨
   </b>
 </p>
 
 <p align="center">
-  <b style="font-size:18px; color:#FFB800;">
+  <b style="font-size:30px; color:#FFB800;">
     ⭐ If you like what you see, consider following for more updates ⭐
   </b>
 </p>
