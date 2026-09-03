@@ -14,7 +14,7 @@
 <!-- ==================== Open to Freelance Work ==================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-brightgreen?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-brightgreen?style=for-the-badge&labelColor=000000" height="45" />
 </p>
 
 
@@ -432,11 +432,3 @@
 
 
 
-
-
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢_STATUS-OPEN_TO_FREELANCE_WORK-FFB800?style=for-the-badge&labelColor=000000&logoColor=white" height="50" />
-</p>
