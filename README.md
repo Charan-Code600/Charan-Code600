@@ -448,3 +448,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-brightgreen?style=for-the-badge&labelColor=000000" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-FFB800?style=for-the-badge&labelColor=000000" />
+</p>
+
+
