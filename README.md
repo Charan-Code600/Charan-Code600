@@ -110,10 +110,10 @@
 <table border="0" align="center" width="100%">
   <tr>
     <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/🔭%20Current%20Focus-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      <b>Building Phase 3 Portfolio</b><br />
-      <font color="#8b949e">Python & Data Analysis Projects</font>
-    </td>
+  <img src="https://img.shields.io/badge/🔭%20Current%20Focus-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
+  <b>Machine Learning Core</b><br />
+  <font color="#8b949e">Phase 4 — Regression, Classification & Model Evaluation</font>
+</td>
     <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
       <img src="https://img.shields.io/badge/🌱%20Learning-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
       <b>Machine Learning & Data Science</b><br />
