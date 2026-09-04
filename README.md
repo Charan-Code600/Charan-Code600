@@ -547,6 +547,11 @@
 
 
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  ⚡ Welcome to my space | I'm Charan Aade &nbsp;&nbsp;&nbsp; 🚀 Python & Data Analysis Developer; Now Learning Machine Learning &nbsp;&nbsp;&nbsp; 🐍 Python, NumPy, Pandas & Data Visualization &nbsp;&nbsp;&nbsp; 💡 Exploring Machine Learning — Phase 4 in Progress &nbsp;&nbsp;&nbsp; 🤝 Open to Collaborations | 🇮🇳 Based in India
-</marquee>
+
+
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-family: 'JetBrains Mono', monospace; font-size: 20px; color: #00F0FF;">
+    ⚡ Welcome to my space | I'm Charan Aade &nbsp;&nbsp;&nbsp;&nbsp; 🚀 Python & Data Analysis Developer; Now Learning Machine Learning &nbsp;&nbsp;&nbsp;&nbsp; 🐍 Python, NumPy, Pandas & Data Visualization &nbsp;&nbsp;&nbsp;&nbsp; 💡 Exploring Machine Learning — Phase 4 in Progress &nbsp;&nbsp;&nbsp;&nbsp; 🤝 Open to Collaborations | 🇮🇳 Based in India &nbsp;&nbsp;&nbsp;&nbsp;
+  </marquee>
+</p>
