@@ -218,7 +218,7 @@
           <td width="50%" valign="top" style="padding-right: 15px;">
             <img src="https://img.shields.io/badge/ROLE-AI%2FML%20Developer-FFB800?style=for-the-badge&labelColor=000000&logo=python&logoColor=FFB800" /><br /><br />
             <b style="font-size:16px;">Self-Taught & Self-Employed</b><br />
-            <font color="#8b949e">Mastering Python, Data Analysis (NumPy, Pandas), and Data Visualization.</font>
+            <font color="#8b949e">Mastered Python & Data Analysis (NumPy, Pandas, Visualization); now advancing into Machine Learning (Phase 4).</font>
           </td>
           <td width="50%" valign="top" style="padding-left: 15px; border-left: 1px solid #30363d;">
             <img src="https://img.shields.io/badge/DURATION-Apr%202026%20--%20Present-FFB800?style=for-the-badge&labelColor=000000&logo=googlecalendar&logoColor=FFB800" /><br /><br />
