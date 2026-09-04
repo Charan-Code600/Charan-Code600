@@ -547,35 +547,3 @@
 
 
 
-<svg width="1000" height="70" viewBox="0 0 1000 70"
-     xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 23px;
-      font-weight: 700;
-      fill: #00F0FF;
-    }
-    .ticker {
-      animation: slide 18s linear infinite;
-    }
-    @keyframes slide {
-      from {
-        transform: translateX(1000px);
-      }
-      to {
-        transform: translateX(-1200px);
-      }
-    }
-  </style>
-  <g class="ticker">
-    <text x="0" y="43" class="text">
-      ⚡ Welcome to my space | I'm Charan Aade
-      🚀 Python &amp; Data Analysis Developer
-      🧠 Now Learning Machine Learning
-      🐍 Python, NumPy, Pandas &amp; Data Visualization
-      💡 Exploring Machine Learning — Phase 4 in Progress
-      🤝 Open to Collaborations | 🇮🇳 Based in India
-    </text>
-  </g>
-</svg>
