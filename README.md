@@ -116,8 +116,8 @@
 </td>
     <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
       <img src="https://img.shields.io/badge/🌱%20Learning-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      <b>Machine Learning & Data Science</b><br />
-      <font color="#8b949e">Pandas, NumPy, Data Visualization</font>
+      <b>Supervised Learning Algorithms</b><br />
+<font color="#8b949e">Linear/Logistic Regression, Decision Tree, Random Forest, KNN</font>
     </td>
   </tr>
   <tr>
