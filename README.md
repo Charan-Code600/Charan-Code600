@@ -301,7 +301,6 @@
       <h4 style="color: #00d2ff; margin-top: 0; margin-bottom: 12px; font-family: 'Fira Code', monospace;">
         🛠️ TOOLS, IDEs & PLATFORMS
       </h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" />
     </td>
