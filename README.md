@@ -160,7 +160,7 @@
   <tr>
     <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
       <img src="https://img.shields.io/badge/⚡%20FUN%20FACT-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      🚀 <b>Building AI/ML Skills – One Project at a Time!</b> 🚀
+      🚀 <b>Building AI/ML Skills – One Concept at a Time!</b> 🚀
     </td>
   </tr>
 </table>
