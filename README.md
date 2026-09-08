@@ -216,7 +216,7 @@
       <table border="0" width="100%">
         <tr>
           <td width="50%" valign="top" style="padding-right: 15px;">
-            <img src="https://img.shields.io/badge/ROLE-AI%2FML%20Developer-FFB800?style=for-the-badge&labelColor=000000&logo=python&logoColor=FFB800" /><br /><br />
+            <img src="https://img.shields.io/badge/ROLE-Python%20%26%20Data%20Analysis%20Developer-FFB800?style=for-the-badge&labelColor=000000&logo=python&logoColor=FFB800" /><br /><br />
             <b style="font-size:16px;">Self-Taught & Self-Employed</b><br />
             <font color="#8b949e">Mastered Python & Data Analysis (NumPy, Pandas, Visualization); now advancing into Machine Learning (Phase 4).</font>
           </td>
