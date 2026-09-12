@@ -549,5 +549,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Charan-Code600/Charan-Code600/main/assets/bounce-arrow.svg" alt="All Repos" />
+  <img src="https://raw.githubusercontent.com/Charan-Code600/Charan-Code600/main/assets/bounce-arrow.svg?v=3" alt="Featured Projects" />
 </p>
