@@ -1,18 +1,18 @@
 <svg width="260" height="130" viewBox="0 0 260 130" xmlns="http://www.w3.org/2000/svg">
   <text x="130" y="26" font-family="Fira Code, monospace" font-size="17" font-weight="700" fill="#FFB800" text-anchor="middle" letter-spacing="1.5">FEATURED PROJECTS</text>
 
-  <g>
-    <path d="M110 50 L130 65 L150 50" stroke="#FFB800" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,8; 0,0" dur="1.2s" begin="0s" repeatCount="indefinite"/>
-  </g>
+  <path d="M120 45 L130 55 L140 45" stroke="#FFB800" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,55" keyTimes="0;1" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.6;1" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+  </path>
 
-  <g>
-    <path d="M110 75 L130 90 L150 75" stroke="#FFB800" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,8; 0,0" dur="1.2s" begin="0.2s" repeatCount="indefinite"/>
-  </g>
+  <path d="M120 45 L130 55 L140 45" stroke="#FFB800" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,55" keyTimes="0;1" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.6;1" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+  </path>
 
-  <g>
-    <path d="M110 100 L130 115 L150 100" stroke="#FFB800" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,8; 0,0" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
-  </g>
+  <path d="M120 45 L130 55 L140 45" stroke="#FFB800" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,55" keyTimes="0;1" dur="1.5s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.6;1" dur="1.5s" begin="1s" repeatCount="indefinite"/>
+  </path>
 </svg>
