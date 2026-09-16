@@ -480,7 +480,7 @@
 <br />
 
 <p align="center">
-  <b style="font-size:18px; color:#FFB800;">
+  <b style="font-size:25px; color:#FFB800;">
     ✨ Thanks for stopping by — every visit means a lot! ✨
   </b>
 </p>
