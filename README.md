@@ -486,7 +486,7 @@
 </p>
 
 <p align="center">
-  <b style="font-size:18px; color:#FFB800;">
+  <b style="font-size:40px; color:#FFB800;">
     ⭐ If you like what you see, consider following for more updates ⭐
   </b>
 </p>
