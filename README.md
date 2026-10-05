@@ -200,12 +200,11 @@
 
 
 <!-- ==================== WORK EXPERIENCE BANNER ==================== -->
-<p align="center">
+<div align="center">
 
-### 💼 $\textsf{\color{#FFB800}{WORK EXPERIENCE}}$
+#### 💼 $\textsf{\color{#FFB800}{WORK EXPERIENCE}}$
 
-</p>
-
+</div>
 
 
 
