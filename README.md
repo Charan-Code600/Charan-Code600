@@ -201,8 +201,9 @@
 
 <!-- ==================== WORK EXPERIENCE BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=header&text=
-  💼%20WORK%20EXPERIENCE&fontSize=28&fontColor=FFB800&fontAlignY=65" width="100%" />
+
+### 💼 $\textsf{\color{#FFB800}{WORK EXPERIENCE}}$
+
 </p>
 
 
