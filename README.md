@@ -202,7 +202,7 @@
 <!-- ==================== WORK EXPERIENCE BANNER ==================== -->
 <div align="center">
 
-## 💼 $\textsf{\color{#FFB800}{WORK EXPERIENCE}}$
+# 💼 $\textsf{\color{#FFB800}{WORK EXPERIENCE}}$
 
 </div>
 
