@@ -107,6 +107,8 @@
 
 
 <!-- ==================== HIGH-TECH COLORFUL GRID BOXES ==================== -->
+
+
 <table border="0" align="center" width="100%">
   <tr>
     <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
@@ -156,6 +158,8 @@
 
 
 <!-- ==================== FULL WIDTH FUN FACT CARD ==================== -->
+
+
 <table border="0" align="center" width="100%">
   <tr>
     <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
@@ -174,6 +178,8 @@
 
 
 <!-- ==================== RELIABLE CONNECT CALLOUT ==================== -->
+
+
 <div align="center" style="background: linear-gradient(90deg, #0d1117 0%, #161b22 50%, #0d1117 100%); padding: 15px; border-radius: 10px; border: 1px solid #00FF88; margin: 20px 0;">
   <h3 align="center" style="color: #00FF88; font-family: 'Fira Code', monospace; margin: 0; font-size: 20px;">
     ✨ Let's Connect and Build Something Amazing! ✨
@@ -200,6 +206,7 @@
 
 
 <!-- ==================== WORK EXPERIENCE BANNER ==================== -->
+
 <div align="center">
 
 # 💼 $\textsf{\color{#FFB800}{WORK EXPERIENCE}}$
@@ -211,6 +218,8 @@
 
 
 <!-- ==================== EXPERIENCE CARD ==================== -->
+
+
 <table border="0" align="center" width="100%">
   <tr>
     <td width="100%" style="background-color: #0d1117; padding: 25px; border-radius: 12px; border: 1px solid #FFB800;">
@@ -264,6 +273,8 @@
 
 
 <!-- ==================== CATEGORIZED SKILL MATRIX ==================== -->
+
+
 <table border="0" align="center" width="100%">
   <!-- LANGUAGES -->
   <tr>
@@ -503,12 +514,6 @@
 
 
 
-
-
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFB800,100:000000&height=3&width=1200" width="100%" />
 </p>
@@ -518,12 +523,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFB800,100:000000&height=3&width=1200" width="100%" />
 </p>
-
-
-
-
-
-
 
 
 
