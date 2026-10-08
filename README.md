@@ -337,9 +337,7 @@
   <img src="https://streak-stats.demolab.com/?user=Charan-Code600&theme=radical&hide_border=false&background=0D1117&fire=00FF88&ring=00FF88" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Charan-Code600&theme=radical&hide_border=false&layout=compact&bg_color=0D1117&title_color=00FF88" alt="Top Languages" width="48%" />
-</p>
+
 
 
 
