@@ -58,7 +58,7 @@
 
 <!-- ==================== SOCIAL CONNECT (PREMIUM V2) ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=LET'S%20CONTACT&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Let's%20Connect&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
 </p>
 
 <p align="center">
