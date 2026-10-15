@@ -185,20 +185,24 @@ Python, Data Analysis, Self-Taught Journey
 <!-- ==================== WORK EXPERIENCE BANNER ==================== -->
 
 <div align="center">
-
-### 💼 $\textsf{\color{#FFB800}{WORK EXPERIENCE}}$
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=100&section=header&text=WORK%20EXPERIENCE&fontSize=34&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="190"><img src="https://img.shields.io/badge/-ROLE-FFB800?style=for-the-badge" alt="Role"></td>
-<td width="520"><b>Python & Data Analysis Developer</b><br>Self-Taught & Self-Employed<br>Completed Python & Data Analysis (NumPy, Pandas, Visualization); now moving into Machine Learning (Phase 4).</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-DURATION-FFB800?style=for-the-badge" alt="Duration"></td>
-<td><b>Apr 2026 – Present</b><br>Building Portfolio & Freelancing<br>Publishing real-world projects on GitHub to build a strong, freelance-ready portfolio.</td>
+<td align="center" valign="top" width="50%">
+<img src="https://img.shields.io/badge/-ROLE-FF512F?style=for-the-badge" alt="Role"><br>
+<h3>Python & Data Analysis Developer</h3>
+<b>Self-Taught & Self-Employed</b><br><br>
+Completed Python & Data Analysis (NumPy, Pandas, Visualization); now moving into Machine Learning (Phase 4).
+</td>
+<td align="center" valign="top" width="50%">
+<img src="https://img.shields.io/badge/-DURATION-DD2476?style=for-the-badge" alt="Duration"><br>
+<h3>Apr 2026 – Present</h3>
+<b>Building Portfolio & Freelancing</b><br><br>
+Publishing real-world projects on GitHub to build a strong, freelance-ready portfolio.
+</td>
 </tr>
 </table>
 </div>
