@@ -93,63 +93,48 @@
 
 
 
+<!-- ==================== About Me ==================== -->
 
+<div align="center">
 
-<!-- ==================== OPTIMIZED SEAMLESS ABOUT ME BANNER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=70&section=header&text=🚀%20ABOUT%20ME&fontSize=30&fontColor=FFB800&stroke=FFB800&strokeWidth=2&fontAlignY=50" width="100%" />
-</p>
+### 🚀 $\textsf{\color{#FFB800}{ABOUT ME}}$
 
+</div>
 
-
-
-
-
-
-<!-- ==================== HIGH-TECH COLORFUL GRID BOXES ==================== -->
-
-
-<table border="0" align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/🔭%20Current%20Focus-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-  <b>Machine Learning Core</b><br />
-  <font color="#8b949e">Phase 4 — Regression, Classification & Model Evaluation</font>
-</td>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/🌱%20Learning-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      <b>Supervised Learning Algorithms</b><br />
-<font color="#8b949e">Linear/Logistic Regression, Decision Tree, Random Forest, KNN</font>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/👯%20Collaboration-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      <b>Open-Source Initiatives</b><br />
-      <font color="#8b949e">Python & Data Science Projects</font>
-    </td>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/🤝%20Seeking%20Help-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      <b>Real-World Feedback</b><br />
-      <font color="#8b949e">Project Ideas & Code Feedback</font>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/💬%20Ask%20Me-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      <b>Core Topics</b><br />
-      <font color="#8b949e">Python, Data Analysis, Self-Taught Journey</font>
-    </td>
-    <td width="50%" align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/📫%20Reach%20Me-FFB800?style=for-the-badge&labelColor=000000&textColor=000000" /><br /><br />
-      <b>Direct Email</b><br />
-      <a href="mailto:charanade66@gmail.com"><code>charanade66@gmail.com</code></a>
-    </td>
-  </tr>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="190"><img src="https://img.shields.io/badge/-CURRENT%20FOCUS-FFB800?style=for-the-badge" alt="Current Focus"></td>
+<td width="520"><b>Machine Learning Core</b><br>Phase 4 — Regression, Classification & Model Evaluation</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-LEARNING-FFB800?style=for-the-badge" alt="Learning"></td>
+<td><b>Supervised Learning Algorithms</b><br>Linear/Logistic Regression, Decision Tree, Random Forest, KNN</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-COLLABORATION-FFB800?style=for-the-badge" alt="Collaboration"></td>
+<td><b>Open-Source Initiatives</b><br>Python & Data Science Projects</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-SEEKING%20HELP-FFB800?style=for-the-badge" alt="Seeking Help"></td>
+<td><b>Real-World Feedback</b><br>Project Ideas & Code Feedback</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-ASK%20ME-FFB800?style=for-the-badge" alt="Ask Me"></td>
+<td><b>Core Topics</b><br>Python, Data Analysis, Self-Taught Journey</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-REACH%20ME-FFB800?style=for-the-badge" alt="Reach Me"></td>
+<td><b>Direct Email</b><br><a href="mailto:charanade66@gmail.com">charanade66@gmail.com</a></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-FUN%20FACT-FFB800?style=for-the-badge" alt="Fun Fact"></td>
+<td><b>Building AI/ML Skills</b><br>One Concept at a Time!</td>
+</tr>
 </table>
+</div>
 
-<br />
-
+<p align="center">✨ Let's Connect and Build Something Amazing! ✨</p>
 
 
 
