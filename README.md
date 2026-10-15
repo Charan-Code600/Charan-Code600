@@ -194,39 +194,22 @@
 
 <div align="center">
 
-# 💼 $\textsf{\color{#FFB800}{WORK EXPERIENCE}}$
+### 💼 $\textsf{\color{#FFB800}{WORK EXPERIENCE}}$
 
 </div>
 
-
-
-
-
-<!-- ==================== EXPERIENCE CARD ==================== -->
-
-
-<table border="0" align="center" width="100%">
-  <tr>
-    <td width="100%" style="background-color: #0d1117; padding: 25px; border-radius: 12px; border: 1px solid #FFB800;">
-      <table border="0" width="100%">
-        <tr>
-          <td width="50%" valign="top" style="padding-right: 15px;">
-            <img src="https://img.shields.io/badge/ROLE-Python%20%26%20Data%20Analysis%20Developer-FFB800?style=for-the-badge&labelColor=000000&logo=python&logoColor=FFB800" /><br /><br />
-            <b style="font-size:16px;">Self-Taught & Self-Employed</b><br />
-            <font color="#8b949e">Mastered Python & Data Analysis (NumPy, Pandas, Visualization); now advancing into Machine Learning (Phase 4).</font>
-          </td>
-          <td width="50%" valign="top" style="padding-left: 15px; border-left: 1px solid #30363d;">
-            <img src="https://img.shields.io/badge/DURATION-Apr%202026%20--%20Present-FFB800?style=for-the-badge&labelColor=000000&logo=googlecalendar&logoColor=FFB800" /><br /><br />
-            <b style="font-size:16px;">Building Portfolio & Freelancing</b><br />
-            <font color="#8b949e">Publishing real-world projects on GitHub to build a strong, freelance-ready portfolio.</font>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="190"><img src="https://img.shields.io/badge/-ROLE-FFB800?style=for-the-badge" alt="Role"></td>
+<td width="520"><b>Python & Data Analysis Developer</b><br>Self-Taught & Self-Employed<br>Completed Python & Data Analysis (NumPy, Pandas, Visualization); now moving into Machine Learning (Phase 4).</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-DURATION-FFB800?style=for-the-badge" alt="Duration"></td>
+<td><b>Apr 2026 – Present</b><br>Building Portfolio & Freelancing<br>Publishing real-world projects on GitHub to build a strong, freelance-ready portfolio.</td>
+</tr>
 </table>
-
-<br />
+</div>
 
 
 
