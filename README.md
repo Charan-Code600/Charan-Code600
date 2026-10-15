@@ -100,46 +100,53 @@
 </div>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/-CURRENT%20FOCUS-8E2DE2?style=for-the-badge" alt="Current Focus">
-
-### Machine Learning Core
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+<img src="https://img.shields.io/badge/-CURRENT%20FOCUS-8E2DE2?style=for-the-badge" alt="Current Focus"><br>
+<h3>Machine Learning Core</h3>
 Phase 4 — Regression, Classification & Model Evaluation
-
-<img src="https://img.shields.io/badge/-LEARNING-F953C6?style=for-the-badge" alt="Learning">
-
-### Supervised Learning Algorithms
+</td>
+<td align="center" valign="top" width="50%">
+<img src="https://img.shields.io/badge/-LEARNING-F953C6?style=for-the-badge" alt="Learning"><br>
+<h3>Supervised Learning Algorithms</h3>
 Linear/Logistic Regression, Decision Tree, Random Forest, KNN
-
-<img src="https://img.shields.io/badge/-COLLABORATION-8E2DE2?style=for-the-badge" alt="Collaboration">
-
-### Open-Source Initiatives
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/-COLLABORATION-F953C6?style=for-the-badge" alt="Collaboration"><br>
+<h3>Open-Source Initiatives</h3>
 Python & Data Science Projects
-
-<img src="https://img.shields.io/badge/-SEEKING%20HELP-F953C6?style=for-the-badge" alt="Seeking Help">
-
-### Real-World Feedback
+</td>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/-SEEKING%20HELP-8E2DE2?style=for-the-badge" alt="Seeking Help"><br>
+<h3>Real-World Feedback</h3>
 Project Ideas & Code Feedback
-
-<img src="https://img.shields.io/badge/-ASK%20ME-8E2DE2?style=for-the-badge" alt="Ask Me">
-
-### Core Topics
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/-ASK%20ME-8E2DE2?style=for-the-badge" alt="Ask Me"><br>
+<h3>Core Topics</h3>
 Python, Data Analysis, Self-Taught Journey
-
-<img src="https://img.shields.io/badge/-REACH%20ME-F953C6?style=for-the-badge" alt="Reach Me">
-
-### Direct Email
+</td>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/-REACH%20ME-F953C6?style=for-the-badge" alt="Reach Me"><br>
+<h3>Direct Email</h3>
 <a href="mailto:charanade66@gmail.com">charanade66@gmail.com</a>
-
-<img src="https://img.shields.io/badge/-FUN%20FACT-8E2DE2?style=for-the-badge" alt="Fun Fact">
-
-### Building AI/ML Skills
-One Concept at a Time!
-
-✨ Let's Connect and Build Something Amazing! ✨
-
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<img src="https://img.shields.io/badge/-FUN%20FACT-8E2DE2?style=for-the-badge" alt="Fun Fact"><br>
+<h3>🚀 Building AI/ML Skills – One Concept at a Time! 🚀</h3>
+</td>
+</tr>
+</table>
 </div>
 
+<p align="center">✨ Let's Connect and Build Something Amazing! ✨</p>
 
 
 
