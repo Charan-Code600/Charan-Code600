@@ -96,45 +96,49 @@
 <!-- ==================== About Me ==================== -->
 
 <div align="center">
-
-### 🚀 $\textsf{\color{#FFB800}{ABOUT ME}}$
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:F953C6&height=100&section=header&text=ABOUT%20ME&fontSize=34&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="190"><img src="https://img.shields.io/badge/-CURRENT%20FOCUS-FFB800?style=for-the-badge" alt="Current Focus"></td>
-<td width="520"><b>Machine Learning Core</b><br>Phase 4 — Regression, Classification & Model Evaluation</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-LEARNING-FFB800?style=for-the-badge" alt="Learning"></td>
-<td><b>Supervised Learning Algorithms</b><br>Linear/Logistic Regression, Decision Tree, Random Forest, KNN</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-COLLABORATION-FFB800?style=for-the-badge" alt="Collaboration"></td>
-<td><b>Open-Source Initiatives</b><br>Python & Data Science Projects</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-SEEKING%20HELP-FFB800?style=for-the-badge" alt="Seeking Help"></td>
-<td><b>Real-World Feedback</b><br>Project Ideas & Code Feedback</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-ASK%20ME-FFB800?style=for-the-badge" alt="Ask Me"></td>
-<td><b>Core Topics</b><br>Python, Data Analysis, Self-Taught Journey</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-REACH%20ME-FFB800?style=for-the-badge" alt="Reach Me"></td>
-<td><b>Direct Email</b><br><a href="mailto:charanade66@gmail.com">charanade66@gmail.com</a></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-FUN%20FACT-FFB800?style=for-the-badge" alt="Fun Fact"></td>
-<td><b>Building AI/ML Skills</b><br>One Concept at a Time!</td>
-</tr>
-</table>
-</div>
 
-<p align="center">✨ Let's Connect and Build Something Amazing! ✨</p>
+<img src="https://img.shields.io/badge/-CURRENT%20FOCUS-8E2DE2?style=for-the-badge" alt="Current Focus">
+
+### Machine Learning Core
+Phase 4 — Regression, Classification & Model Evaluation
+
+<img src="https://img.shields.io/badge/-LEARNING-F953C6?style=for-the-badge" alt="Learning">
+
+### Supervised Learning Algorithms
+Linear/Logistic Regression, Decision Tree, Random Forest, KNN
+
+<img src="https://img.shields.io/badge/-COLLABORATION-8E2DE2?style=for-the-badge" alt="Collaboration">
+
+### Open-Source Initiatives
+Python & Data Science Projects
+
+<img src="https://img.shields.io/badge/-SEEKING%20HELP-F953C6?style=for-the-badge" alt="Seeking Help">
+
+### Real-World Feedback
+Project Ideas & Code Feedback
+
+<img src="https://img.shields.io/badge/-ASK%20ME-8E2DE2?style=for-the-badge" alt="Ask Me">
+
+### Core Topics
+Python, Data Analysis, Self-Taught Journey
+
+<img src="https://img.shields.io/badge/-REACH%20ME-F953C6?style=for-the-badge" alt="Reach Me">
+
+### Direct Email
+<a href="mailto:charanade66@gmail.com">charanade66@gmail.com</a>
+
+<img src="https://img.shields.io/badge/-FUN%20FACT-8E2DE2?style=for-the-badge" alt="Fun Fact">
+
+### Building AI/ML Skills
+One Concept at a Time!
+
+✨ Let's Connect and Build Something Amazing! ✨
+
+</div>
 
 
 
