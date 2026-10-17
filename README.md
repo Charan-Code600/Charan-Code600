@@ -85,6 +85,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
+
 
 
 
@@ -167,7 +173,11 @@ Python, Data Analysis, Self-Taught Journey
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
 
 
 
@@ -211,7 +221,11 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 </p>
 
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
 
 
 
@@ -286,7 +300,11 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
 
 
 
@@ -320,7 +338,11 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 </p>
 
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
 
 
 
@@ -340,7 +362,11 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
   <img src="https://github-trophies.vercel.app/?username=Charan-Code600&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
 </p>
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Charan-Code600&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
+</p>
 
 
 
@@ -375,7 +401,11 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
 
 
 
@@ -424,7 +454,11 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
 
 
 
