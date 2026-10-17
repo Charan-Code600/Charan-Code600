@@ -53,7 +53,7 @@
 <!-- ==================== SOCIAL CONNECT (PREMIUM V2) ==================== -->
 <div align="center">
 
-# Let's Connect
+# $\textsf{\color{#38EF7D}{Let's Connect}}$
 
 </div>
 
