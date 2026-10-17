@@ -90,60 +90,55 @@
 <!-- ==================== About Me ==================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:F953C6&height=100&section=header&text=ABOUT%20ME&fontSize=34&fontColor=ffffff&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B894,100:0984E3&height=100&section=header&text=ABOUT%20ME&fontSize=34&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
 
 <div align="center">
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-<img src="https://img.shields.io/badge/-CURRENT%20FOCUS-8E2DE2?style=for-the-badge" alt="Current Focus"><br>
+<img src="https://img.shields.io/badge/-CURRENT%20FOCUS-00B894?style=for-the-badge" alt="Current Focus"><br>
 <h3>Machine Learning Core</h3>
 Phase 4 — Regression, Classification & Model Evaluation
 </td>
 <td align="center" valign="top" width="50%">
-<img src="https://img.shields.io/badge/-LEARNING-F953C6?style=for-the-badge" alt="Learning"><br>
+<img src="https://img.shields.io/badge/-LEARNING-0984E3?style=for-the-badge" alt="Learning"><br>
 <h3>Supervised Learning Algorithms</h3>
 Linear/Logistic Regression, Decision Tree, Random Forest, KNN
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
-<img src="https://img.shields.io/badge/-COLLABORATION-F953C6?style=for-the-badge" alt="Collaboration"><br>
+<img src="https://img.shields.io/badge/-COLLABORATION-0984E3?style=for-the-badge" alt="Collaboration"><br>
 <h3>Open-Source Initiatives</h3>
 Python & Data Science Projects
 </td>
 <td align="center" valign="top">
-<img src="https://img.shields.io/badge/-SEEKING%20HELP-8E2DE2?style=for-the-badge" alt="Seeking Help"><br>
+<img src="https://img.shields.io/badge/-SEEKING%20HELP-00B894?style=for-the-badge" alt="Seeking Help"><br>
 <h3>Real-World Feedback</h3>
 Project Ideas & Code Feedback
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
-<img src="https://img.shields.io/badge/-ASK%20ME-8E2DE2?style=for-the-badge" alt="Ask Me"><br>
+<img src="https://img.shields.io/badge/-ASK%20ME-00B894?style=for-the-badge" alt="Ask Me"><br>
 <h3>Core Topics</h3>
 Python, Data Analysis, Self-Taught Journey
 </td>
 <td align="center" valign="top">
-<img src="https://img.shields.io/badge/-REACH%20ME-F953C6?style=for-the-badge" alt="Reach Me"><br>
+<img src="https://img.shields.io/badge/-REACH%20ME-0984E3?style=for-the-badge" alt="Reach Me"><br>
 <h3>Direct Email</h3>
 <a href="mailto:charanade66@gmail.com">charanade66@gmail.com</a>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top">
-<img src="https://img.shields.io/badge/-FUN%20FACT-8E2DE2?style=for-the-badge" alt="Fun Fact"><br>
+<img src="https://img.shields.io/badge/-FUN%20FACT-00B894?style=for-the-badge" alt="Fun Fact"><br>
 <h3>🚀 Building AI/ML Skills – One Concept at a Time! 🚀</h3>
 </td>
 </tr>
 </table>
 </div>
-
-<p align="center">✨ Let's Connect and Build Something Amazing! ✨</p>
-
-
-
 
 
 
