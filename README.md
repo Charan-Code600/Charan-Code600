@@ -51,9 +51,11 @@
 
 
 <!-- ==================== SOCIAL CONNECT (PREMIUM V2) ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,100:38EF7D&height=130&section=header&text=Let%27s%20Connect&fontSize=50&fontColor=ffffff&fontAlignY=50" alt="Let's Connect" width="100%" />
-</p>
+<div align="center">
+
+# Let's Connect
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/charanaade">
