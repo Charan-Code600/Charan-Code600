@@ -366,22 +366,6 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 
 
 
-<!-- ==================== GLOWING DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-1396aedaec5c.gif" alt="Glowing Divider" />
-</p>
-
-
-
-
-
-
-<!-- ==================== FOOTER ==================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
-</p>
 
 
 
