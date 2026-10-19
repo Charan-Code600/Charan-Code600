@@ -412,9 +412,13 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 
 
 <!-- ==================== RAINBOW CONTRIBUTION SNAKE ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB800&height=90&section=header&text=Rainbow%20Contribution%20Snake&fontSize=24&fontColor=FFFFFF&fontAlignY=65" width="100%" />
-</p>
+<!-- ==================== RAINBOW CONTRIBUTION SNAKE ==================== -->
+
+<div align="center">
+
+# $\textsf{\color{#FFB800}{Rainbow Contribution Snake}}$
+
+</div>
 
 <p align="center">
   <b style="font-size:18px; color:#FFB800; letter-spacing:1px;">
@@ -449,6 +453,11 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 
 
 
+
+
+
+
+
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
 <p align="center">
@@ -460,16 +469,28 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
 </p>
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 <!-- ==================== PROFILE INSIGHTS (FOOTER) ==================== -->
-<br />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B6914,100:FFB800&height=110&section=header&text=Profile%20Insights&fontSize=32&fontColor=FFFFFF&fontAlignY=60&animation=fadeIn" width="100%" />
-</p>
+<!-- ==================== PROFILE INSIGHTS (FOOTER) ==================== -->
+
+<div align="center">
+
+# $\textsf{\color{#FFB800}{Profile Insights}}$
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" height="500" />
