@@ -149,9 +149,6 @@ Python, Data Analysis, Self-Taught Journey
 </table>
 </div>
 
-<p align="center">✨ Let's Connect and Build Something Amazing! ✨</p>
-
-
 
 
 <!-- ==================== RELIABLE CONNECT CALLOUT ==================== -->
