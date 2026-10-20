@@ -3,36 +3,35 @@
 
 
 
-
 <!-- ==================== ANIMATED BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB800&height=200&section=header&text=Charan%20Aade&fontSize=80&fontColor=0d1117&animation=fadeIn" alt="Charan Aade Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=200&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Charan Aade Banner" />
 </p>
 
 <!-- ==================== Open to Freelance Work ==================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-FFB800?style=for-the-badge&labelColor=1a1a2e" height="1000" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-FF4D4D?style=for-the-badge&labelColor=1a1a2e" height="1000" />
 </p>
 
 <!-- ==================== TYPING ANIMATION ==================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=FFB800&center=true&vCenter=true&width=880&height=65&lines=%E2%9A%A1+Welcome+to+my+space+%7C+I'm+Charan+Aade;%F0%9F%9A%80+Python+%26+Data+Analysis+Developer%3B+%F0%9F%A7%A0+Now+Learning+Machine+Learning;%F0%9F%90%8D+Python%2C+NumPy%2C+Pandas+%26+Data+Visualization;%F0%9F%92%A1+Exploring+Machine+Learning+%E2%80%94+Phase+4+in+Progress;%F0%9F%A4%9D+Open+to+Collaborations+%7C+%F0%9F%87%AE%F0%9F%87%B3+Based+in+India" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=FF4D4D&center=true&vCenter=true&width=880&height=65&lines=%E2%9A%A1+Welcome+to+my+space+%7C+I'm+Charan+Aade;%F0%9F%9A%80+Python+%26+Data+Analysis+Developer%3B+%F0%9F%A7%A0+Now+Learning+Machine+Learning;%F0%9F%90%8D+Python%2C+NumPy%2C+Pandas+%26+Data+Visualization;%F0%9F%92%A1+Exploring+Machine+Learning+%E2%80%94+Phase+4+in+Progress;%F0%9F%A4%9D+Open+to+Collaborations+%7C+%F0%9F%87%AE%F0%9F%87%B3+Based+in+India" alt="Typing Animation" />
 </p>
 
 <!-- ==================== DIVIDER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D4D&height=4&width=1200" width="100%" />
 </p>
 
 <!-- ==================== LET'S CONNECT ==================== -->
 
 <div align="center">
 
-# $\textsf{\color{#FFB800}{Let's Connect}}$
+# $\textsf{\color{#FF4D4D}{Let's Connect}}$
 
 </div>
 
@@ -53,7 +52,7 @@
 <!-- ==================== DIVIDER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D4D&height=4&width=1200" width="100%" />
 </p>
 
 
