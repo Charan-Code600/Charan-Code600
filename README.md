@@ -3,57 +3,36 @@
 
 
 
+
 <!-- ==================== ANIMATED BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Charan%20Aade&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Premium Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB800&height=200&section=header&text=Charan%20Aade&fontSize=80&fontColor=0d1117&animation=fadeIn" alt="Charan Aade Banner" />
 </p>
-
-
-
-
-
 
 <!-- ==================== Open to Freelance Work ==================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-brightgreen?style=for-the-badge&labelColor=000000" height="1000" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-FFB800?style=for-the-badge&labelColor=1a1a2e" height="1000" />
 </p>
 
+<!-- ==================== TYPING ANIMATION ==================== -->
 
-
-
-
-
-
-
-<!-- ==================== PROFESSIONAL CYBERPUNK TYPING ANIMATION ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=880&height=65&lines=%E2%9A%A1+Welcome+to+my+space+%7C+I'm+Charan+Aade;%F0%9F%9A%80+Python+%26+Data+Analysis+Developer%3B+%F0%9F%A7%A0+Now+Learning+Machine+Learning;%F0%9F%90%8D+Python%2C+NumPy%2C+Pandas+%26+Data+Visualization;%F0%9F%92%A1+Exploring+Machine+Learning+%E2%80%94+Phase+4+in+Progress;%F0%9F%A4%9D+Open+to+Collaborations+%7C+%F0%9F%87%AE%F0%9F%87%B3+Based+in+India" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=FFB800&center=true&vCenter=true&width=880&height=65&lines=%E2%9A%A1+Welcome+to+my+space+%7C+I'm+Charan+Aade;%F0%9F%9A%80+Python+%26+Data+Analysis+Developer%3B+%F0%9F%A7%A0+Now+Learning+Machine+Learning;%F0%9F%90%8D+Python%2C+NumPy%2C+Pandas+%26+Data+Visualization;%F0%9F%92%A1+Exploring+Machine+Learning+%E2%80%94+Phase+4+in+Progress;%F0%9F%A4%9D+Open+to+Collaborations+%7C+%F0%9F%87%AE%F0%9F%87%B3+Based+in+India" alt="Typing Animation" />
 </p>
 
+<!-- ==================== DIVIDER ==================== -->
 
-
-
-<!-- ==================== GLOWING DIVIDER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
 </p>
 
-<!-- ==================== GLOWING DIVIDER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
-</p>
+<!-- ==================== LET'S CONNECT ==================== -->
 
-
-
-
-
-
-<!-- ==================== SOCIAL CONNECT (PREMIUM V2) ==================== -->
 <div align="center">
 
-# $\textsf{\color{#38EF7D}{Let's Connect}}$
+# $\textsf{\color{#FFB800}{Let's Connect}}$
 
 </div>
 
@@ -71,135 +50,97 @@
   </a>
 </p>
 
-<br />
-
-
-
-
-
-
-
-<!-- ==================== GLOWING DIVIDER ==================== -->
+<!-- ==================== DIVIDER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
-</p>
-
-<!-- ==================== GLOWING DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
 </p>
 
 
 
 
-
-<!-- ==================== About Me ==================== -->
-
+<!-- ==================== ABOUT ME ==================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F93A8,100:A87575&height=100&section=header&text=ABOUT%20ME&fontSize=34&fontColor=ffffff&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=100&section=header&text=ABOUT%20ME&fontSize=34&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
 
 <div align="center">
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-<img src="https://img.shields.io/badge/-CURRENT%20FOCUS-8F93A8?style=for-the-badge" alt="Current Focus"><br>
+<img src="https://img.shields.io/badge/-CURRENT%20FOCUS-FF4D4D?style=for-the-badge" alt="Current Focus"><br>
 <h3>Machine Learning Core</h3>
 Phase 4 — Regression, Classification & Model Evaluation
 </td>
 <td align="center" valign="top" width="50%">
-<img src="https://img.shields.io/badge/-LEARNING-A87575?style=for-the-badge" alt="Learning"><br>
+<img src="https://img.shields.io/badge/-LEARNING-FF4D4D?style=for-the-badge" alt="Learning"><br>
 <h3>Supervised Learning Algorithms</h3>
 Linear/Logistic Regression, Decision Tree, Random Forest, KNN
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
-<img src="https://img.shields.io/badge/-COLLABORATION-A87575?style=for-the-badge" alt="Collaboration"><br>
+<img src="https://img.shields.io/badge/-COLLABORATION-FF4D4D?style=for-the-badge" alt="Collaboration"><br>
 <h3>Open-Source Initiatives</h3>
 Python & Data Science Projects
 </td>
 <td align="center" valign="top">
-<img src="https://img.shields.io/badge/-SEEKING%20HELP-8F93A8?style=for-the-badge" alt="Seeking Help"><br>
+<img src="https://img.shields.io/badge/-SEEKING%20HELP-FF4D4D?style=for-the-badge" alt="Seeking Help"><br>
 <h3>Real-World Feedback</h3>
 Project Ideas & Code Feedback
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
-<img src="https://img.shields.io/badge/-ASK%20ME-8F93A8?style=for-the-badge" alt="Ask Me"><br>
+<img src="https://img.shields.io/badge/-ASK%20ME-FF4D4D?style=for-the-badge" alt="Ask Me"><br>
 <h3>Core Topics</h3>
 Python, Data Analysis, Self-Taught Journey
 </td>
 <td align="center" valign="top">
-<img src="https://img.shields.io/badge/-REACH%20ME-A87575?style=for-the-badge" alt="Reach Me"><br>
+<img src="https://img.shields.io/badge/-REACH%20ME-FF4D4D?style=for-the-badge" alt="Reach Me"><br>
 <h3>Direct Email</h3>
 <a href="mailto:charanade66@gmail.com">charanade66@gmail.com</a>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top">
-<img src="https://img.shields.io/badge/-FUN%20FACT-8F93A8?style=for-the-badge" alt="Fun Fact"><br>
+<img src="https://img.shields.io/badge/-FUN%20FACT-FF4D4D?style=for-the-badge" alt="Fun Fact"><br>
 <h3>🚀 Building AI/ML Skills – One Concept at a Time! 🚀</h3>
 </td>
 </tr>
 </table>
 </div>
 
+<div align="center">
 
+### $\textsf{\color{#FF4D4D}{✨ Let's Connect and Build Something Amazing! ✨}}$
 
-<!-- ==================== RELIABLE CONNECT CALLOUT ==================== -->
-
-
-<div align="center" style="background: linear-gradient(90deg, #0d1117 0%, #161b22 50%, #0d1117 100%); padding: 15px; border-radius: 10px; border: 1px solid #00FF88; margin: 20px 0;">
-  <h3 align="center" style="color: #00FF88; font-family: 'Fira Code', monospace; margin: 0; font-size: 20px;">
-    ✨ Let's Connect and Build Something Amazing! ✨
-  </h3>
 </div>
 
-
-
-
-
-
-
-
-<!-- ==================== GLOWING DIVIDER ==================== -->
+<!-- ==================== DIVIDER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D4D&height=4&width=1200" width="100%" />
 </p>
 
-<!-- ==================== GLOWING DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
-</p>
-
-
-
-
-
-<!-- ==================== WORK EXPERIENCE BANNER ==================== -->
+<!-- ==================== WORK EXPERIENCE ==================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=100&section=header&text=WORK%20EXPERIENCE&fontSize=34&fontColor=ffffff&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=100&section=header&text=WORK%20EXPERIENCE&fontSize=34&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
 
 <div align="center">
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-<img src="https://img.shields.io/badge/-ROLE-FF512F?style=for-the-badge" alt="Role"><br>
+<img src="https://img.shields.io/badge/-ROLE-FF4D4D?style=for-the-badge" alt="Role"><br>
 <h3>Python & Data Analysis Developer</h3>
 <b>Self-Taught & Self-Employed</b><br><br>
 Completed Python & Data Analysis (NumPy, Pandas, Visualization); now moving into Machine Learning (Phase 4).
 </td>
 <td align="center" valign="top" width="50%">
-<img src="https://img.shields.io/badge/-DURATION-DD2476?style=for-the-badge" alt="Duration"><br>
+<img src="https://img.shields.io/badge/-DURATION-FF4D4D?style=for-the-badge" alt="Duration"><br>
 <h3>Apr 2026 – Present</h3>
 <b>Building Portfolio & Freelancing</b><br><br>
 Publishing real-world projects on GitHub to build a strong, freelance-ready portfolio.
@@ -208,24 +149,13 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 </table>
 </div>
 
-
-
-
-
-
-
-<!-- ==================== GLOWING DIVIDER ==================== -->
+<!-- ==================== DIVIDER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D4D&height=4&width=1200" width="100%" />
 </p>
 
 
-<!-- ==================== GLOWING DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
-</p>
 
 
 
