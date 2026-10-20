@@ -161,7 +161,7 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 <!-- ==================== TECH STACK BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=110&section=header&text=Tech%20Stack%20and%20Ecosystem&fontSize=34&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D4D&height=110&section=header&text=Tech%20Stack%20and%20Ecosystem&fontSize=34&fontColor=FFFFFF&fontAlignY=55" width="100%" />
 </p>
 
 <!-- ==================== CATEGORIZED SKILL MATRIX ==================== -->
