@@ -577,3 +577,340 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 <p align="center">
   <img src="https://raw.githubusercontent.com/Charan-Code600/Charan-Code600/main/assets/bounce-arrow.svg?v=4" alt="Featured Projects" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==================== ANIMATED BANNER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB800&height=200&section=header&text=Charan%20Aade&fontSize=80&fontColor=1a1a2e&animation=fadeIn" alt="Charan Aade Banner" />
+</p>
+
+<!-- ==================== Open to Freelance Work ==================== -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-FFB800?style=for-the-badge&labelColor=1a1a2e" height="1000" />
+</p>
+
+<!-- ==================== TYPING ANIMATION ==================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=FFB800&center=true&vCenter=true&width=880&height=65&lines=%E2%9A%A1+Welcome+to+my+space+%7C+I'm+Charan+Aade;%F0%9F%9A%80+Python+%26+Data+Analysis+Developer%3B+%F0%9F%A7%A0+Now+Learning+Machine+Learning;%F0%9F%90%8D+Python%2C+NumPy%2C+Pandas+%26+Data+Visualization;%F0%9F%92%A1+Exploring+Machine+Learning+%E2%80%94+Phase+4+in+Progress;%F0%9F%A4%9D+Open+to+Collaborations+%7C+%F0%9F%87%AE%F0%9F%87%B3+Based+in+India" alt="Typing Animation" />
+</p>
+
+<!-- ==================== DIVIDER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
+</p>
+
+<!-- ==================== LET'S CONNECT ==================== -->
+
+<div align="center">
+
+# $\textsf{\color{#FFB800}{Let's Connect}}$
+
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/charanaade">
+    <img src="https://img.shields.io/badge/LinkedIn-FFB800?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a1a2e" />
+  </a>
+  &nbsp;
+  <a href="mailto:charanade66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFB800?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a1a2e" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Charan-Code600">
+    <img src="https://img.shields.io/badge/GitHub-FFB800?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e" />
+  </a>
+</p>
+
+<!-- ==================== DIVIDER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
+</p>
+
+<!-- ==================== ABOUT ME ==================== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB800&height=100&section=header&text=ABOUT%20ME&fontSize=34&fontColor=1a1a2e&fontAlignY=65" width="100%"/>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+<img src="https://img.shields.io/badge/-CURRENT%20FOCUS-FFB800?style=for-the-badge" alt="Current Focus"><br>
+<h3>Machine Learning Core</h3>
+Phase 4 — Regression, Classification & Model Evaluation
+</td>
+<td align="center" valign="top" width="50%">
+<img src="https://img.shields.io/badge/-LEARNING-FFB800?style=for-the-badge" alt="Learning"><br>
+<h3>Supervised Learning Algorithms</h3>
+Linear/Logistic Regression, Decision Tree, Random Forest, KNN
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/-COLLABORATION-FFB800?style=for-the-badge" alt="Collaboration"><br>
+<h3>Open-Source Initiatives</h3>
+Python & Data Science Projects
+</td>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/-SEEKING%20HELP-FFB800?style=for-the-badge" alt="Seeking Help"><br>
+<h3>Real-World Feedback</h3>
+Project Ideas & Code Feedback
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/-ASK%20ME-FFB800?style=for-the-badge" alt="Ask Me"><br>
+<h3>Core Topics</h3>
+Python, Data Analysis, Self-Taught Journey
+</td>
+<td align="center" valign="top">
+<img src="https://img.shields.io/badge/-REACH%20ME-FFB800?style=for-the-badge" alt="Reach Me"><br>
+<h3>Direct Email</h3>
+<a href="mailto:charanade66@gmail.com">charanade66@gmail.com</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<img src="https://img.shields.io/badge/-FUN%20FACT-FFB800?style=for-the-badge" alt="Fun Fact"><br>
+<h3>🚀 Building AI/ML Skills – One Concept at a Time! 🚀</h3>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+### $\textsf{\color{#FFB800}{✨ Let's Connect and Build Something Amazing! ✨}}$
+
+</div>
+
+<!-- ==================== DIVIDER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
+</p>
+
+<!-- ==================== WORK EXPERIENCE ==================== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB800&height=100&section=header&text=WORK%20EXPERIENCE&fontSize=34&fontColor=1a1a2e&fontAlignY=65" width="100%"/>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+<img src="https://img.shields.io/badge/-ROLE-FFB800?style=for-the-badge" alt="Role"><br>
+<h3>Python & Data Analysis Developer</h3>
+<b>Self-Taught & Self-Employed</b><br><br>
+Completed Python & Data Analysis (NumPy, Pandas, Visualization); now moving into Machine Learning (Phase 4).
+</td>
+<td align="center" valign="top" width="50%">
+<img src="https://img.shields.io/badge/-DURATION-FFB800?style=for-the-badge" alt="Duration"><br>
+<h3>Apr 2026 – Present</h3>
+<b>Building Portfolio & Freelancing</b><br><br>
+Publishing real-world projects on GitHub to build a strong, freelance-ready portfolio.
+</td>
+</tr>
+</table>
+</div>
+
+<!-- ==================== DIVIDER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
+</p>
+
+<!-- ==================== TECH STACK ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=110&section=header&text=Tech%20Stack%20and%20Ecosystem&fontSize=34&fontColor=1a1a2e&fontAlignY=55" width="100%" />
+</p>
+
+<div align="center">
+
+### $\textsf{\color{#FFB800}{🚀 Programming Languages}}$
+
+![Python](https://img.shields.io/badge/Python-FFB800?style=for-the-badge&logo=python&logoColor=black&labelColor=1a1a2e)
+
+### $\textsf{\color{#FFB800}{🧠 Data Science & Machine Learning}}$
+
+![NumPy](https://img.shields.io/badge/NumPy-FFB800?style=for-the-badge&logo=numpy&logoColor=black&labelColor=1a1a2e)
+![Pandas](https://img.shields.io/badge/Pandas-FFB800?style=for-the-badge&logo=pandas&logoColor=black&labelColor=1a1a2e)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFB800?style=for-the-badge&logo=matplotlib&logoColor=black&labelColor=1a1a2e)
+![Seaborn](https://img.shields.io/badge/Seaborn-FFB800?style=for-the-badge&labelColor=1a1a2e)
+
+### $\textsf{\color{#FFB800}{🛠️ Tools, IDEs & Platforms}}$
+
+![GitHub](https://img.shields.io/badge/GitHub-FFB800?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)
+![VS Code](https://img.shields.io/badge/VS_Code-FFB800?style=for-the-badge&logo=visual-studio-code&logoColor=black&labelColor=1a1a2e)
+
+</div>
+
+<!-- ==================== DIVIDER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
+</p>
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFB800&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+GITHUB+ANALYTICS;%F0%9F%93%98+CODING+STATS+%26+METRICS" alt="GitHub Analytics Header" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Charan-Code600&show_icons=true&hide_border=false&count_private=true&bg_color=0D1117&title_color=FFB800&icon_color=FFB800&text_color=FFFFFF&border_color=FFB800" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Charan-Code600&hide_border=false&background=0D1117&border=FFB800&ring=FFB800&fire=FFB800&currStreakNum=FFB800&sideNums=FFB800&currStreakLabel=FFB800&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Charan-Code600&hide_border=false&layout=compact&bg_color=0D1117&title_color=FFB800&text_color=FFFFFF&border_color=FFB800" alt="Top Languages" width="48%" />
+</p>
+
+<!-- ==================== DIVIDER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
+</p>
+
+<!-- ==================== GITHUB TROPHIES ==================== -->
+
+<div align="center">
+
+# $\textsf{\color{#FFB800}{GitHub Trophies}}$
+
+</div>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Charan-Code600&theme=gruvbox&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
+</p>
+
+<!-- ==================== DIVIDER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
+</p>
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+<div align="center">
+
+# $\textsf{\color{#FFB800}{Rainbow Contribution Snake}}$
+
+### $\textsf{\color{#FFB800}{✨ Every dot in my contribution graph tells a story. ✨}}$
+
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Rainbow Snake Animation" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rainbow_Mode-Active-FFB800?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Puff_Effect-Enabled-FFB800?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Every_Dot-Colorful-FFB800?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Snake-Eats_Rainbow-FFB800?style=for-the-badge&labelColor=1a1a2e" />
+</p>
+
+<!-- ==================== DIVIDER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=4&width=1200" width="100%" />
+</p>
+
+<!-- ==================== PROFILE INSIGHTS ==================== -->
+
+<div align="center">
+
+# $\textsf{\color{#FFB800}{Profile Insights}}$
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charan-Code600&color=FFB800&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1a2e" height="500" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Charan-Code600?label=FOLLOWERS&style=for-the-badge&color=FFB800&labelColor=1a1a2e" height="500" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REPOSITORIES-21-FFB800?style=for-the-badge&labelColor=1a1a2e" height="500" />
+</p>
+
+<div align="center">
+
+### $\textsf{\color{#FFB800}{✨ Thanks for stopping by — every visit means a lot! ✨}}$
+
+### $\textsf{\color{#FFB800}{⭐ If you like what you see, consider following for more updates ⭐}}$
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFB800,100:000000&height=3&width=1200" width="100%" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFB800,100:000000&height=3&width=1200" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Charan-Code600/Charan-Code600/main/assets/bounce-arrow.svg?v=4" alt="Featured Projects" />
+</p>
