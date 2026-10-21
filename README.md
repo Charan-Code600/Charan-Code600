@@ -292,7 +292,6 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 </div>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Charan-Code600.Charan-Code600&left_color=1a1a2e&right_color=FF4D4D&left_text=PROFILE%20VIEWS" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Charan-Code600?label=FOLLOWERS&style=for-the-badge&color=FF4D4D&labelColor=1a1a2e" height="500" />
   &nbsp;&nbsp;
