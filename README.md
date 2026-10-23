@@ -61,7 +61,7 @@
 <!-- ==================== ABOUT ME ==================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB800&height=100&section=header&text=ABOUT%20ME&fontSize=34&fontColor=0d1117&fontAlignY=65" width="150%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=100&section=header&text=ABOUT%20ME&fontSize=34&fontColor=0d1117&fontAlignY=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -126,7 +126,7 @@ Python, Data Analysis, Self-Taught Journey
 <!-- ==================== WORK EXPERIENCE ==================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB800&height=100&section=header&text=WORK%20EXPERIENCE&fontSize=34&fontColor=0d1117&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=100&section=header&text=WORK%20EXPERIENCE&fontSize=34&fontColor=0d1117&fontAlignY=50" width="100%"/>
 </div>
 
 <div align="center">
