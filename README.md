@@ -6,7 +6,7 @@
 <!-- ==================== ANIMATED BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB800&height=200&section=header&text=Charan%20Aade&fontSize=80&fontColor=0d1117&animation=fadeIn" alt="Charan Aade Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=160&section=header&text=Charan%20Aade&fontSize=70&fontColor=0d1117&fontAlignY=50&animation=fadeIn" alt="Charan Aade Banner" />
 </p>
 
 <!-- ==================== Open to Freelance Work ==================== -->
