@@ -128,7 +128,9 @@ Python, Data Analysis, Self-Taught Journey
 <!-- ==================== WORK EXPERIENCE ==================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=100&section=header&text=WORK%20EXPERIENCE&fontSize=34&fontColor=0d1117&fontAlignY=50" width="100%"/>
+
+# $\textsf{\color{#FFB800}{WORK EXPERIENCE}}$
+
 </div>
 
 <div align="center">
