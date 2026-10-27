@@ -47,7 +47,16 @@
   <a href="https://github.com/Charan-Code600">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.fiverr.com/charan_aade">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/~01ddc7e0a0b3bb9098">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
 </p>
+
 
 <!-- ==================== DIVIDER ==================== -->
 
