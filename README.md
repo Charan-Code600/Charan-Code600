@@ -233,7 +233,7 @@ Publishing real-world projects on GitHub to build a strong, freelance-ready port
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Charan-Code600&show_icons=true&hide_border=false&count_private=true&bg_color=0D1117&title_color=FFB800&icon_color=FFB800&text_color=FFFFFF&border_color=FFB800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Charan-Code600&theme=radical&show_icons=true&hide_border=false&count_private=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Charan-Code600&hide_border=false&background=0D1117&border=FFB800&ring=FFB800&fire=FFB800&currStreakNum=FFB800&sideNums=FFB800&currStreakLabel=FFB800&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%" />
 </p>
 
